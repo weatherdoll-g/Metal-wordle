@@ -1,1 +1,96 @@
-
+*{box-sizing:border-box}
+:root{color-scheme:dark;--bg:#101013;--panel:#17171c;--panel2:#202027;--line:#303039;--text:#f2f0ec;--muted:#96949e;--red:#d64235;--green:#18784b;--yellow:#b48a20;--black:#292930}
+body{margin:0;background:radial-gradient(ellipse at 50% -20%,#292026 0%,transparent 48%),var(--bg);color:var(--text);font-family:Inter,system-ui,sans-serif;min-height:100vh}
+button,input{font:inherit}
+button{cursor:pointer}
+.site-shell{max-width:1040px;margin:0 auto;padding:0 28px}
+.topbar{height:76px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #ffffff12}
+.brand{display:flex;align-items:center;gap:10px;color:var(--text);font-family:"Barlow Condensed",sans-serif;font-size:25px;font-weight:900;letter-spacing:1.4px;text-decoration:none}
+.brand-mark{display:grid;place-items:center;width:34px;height:34px;background:var(--red);clip-path:polygon(15% 0,85% 0,100% 50%,85% 100%,15% 100%,0 50%);font-size:23px}
+.brand-accent{color:var(--red)}
+.top-actions{display:flex;gap:9px}
+.icon-button{width:36px;height:36px;border:1px solid var(--line);border-radius:50%;background:transparent;color:#ccc;font-weight:700;font-size:16px}
+.icon-button:hover{border-color:var(--red);color:white}
+.intro{text-align:center;padding:52px 0 30px}
+.eyebrow,.section-kicker,.daily-line,.game-meta,.search-wrap label,.column-heading,.legend,.search-hint,footer,.mini-stats span,.stats-grid span{font-size:10px;font-weight:700;letter-spacing:1.65px}
+.eyebrow{color:#b5b1b4;display:flex;align-items:center;justify-content:center;gap:9px}
+.live-dot{width:7px;height:7px;border-radius:50%;background:var(--red);box-shadow:0 0 12px #d64235}
+h1,h2{font-family:"Barlow Condensed",Impact,sans-serif;font-weight:900;letter-spacing:1.2px;margin:0}
+h1{font-size:clamp(48px,8vw,78px);line-height:1;margin:13px 0 8px}
+h1 span{color:var(--red)}
+.intro>p{color:#aaa7b0;margin:0;font-size:14px}
+.daily-line{display:flex;justify-content:center;gap:10px;color:#d4d0d0;margin-top:22px}
+.daily-line .separator{color:var(--red)}
+.game-panel{background:linear-gradient(145deg,#1b1b21,#151519);border:1px solid #34333a;border-radius:13px;padding:25px 27px;box-shadow:0 20px 70px #0005}
+.game-meta{display:flex;justify-content:space-between;color:#aaa7af}
+.game-meta strong{font-size:13px;color:white;letter-spacing:1px}
+.muted{color:#777}
+.progress-track{height:4px;background:#33323a;border-radius:5px;margin:11px 0 26px;overflow:hidden}
+#progress-fill{height:100%;width:0;background:var(--red);transition:width .25s}
+.search-wrap{position:relative}
+.search-wrap label{display:block;color:#c6c1c5;margin-bottom:9px}
+.search-control{display:flex;align-items:center;gap:10px;background:#101014;border:1px solid #3a3942;border-radius:7px;padding:6px 7px 6px 13px}
+.search-control:focus-within{border-color:#b74a40;box-shadow:0 0 0 3px #d642351c}
+.search-symbol{font-size:24px;color:#8e8992;line-height:1}
+#band-input{min-width:0;flex:1;background:transparent;border:0;outline:0;color:white;padding:10px 0;font-size:14px}
+#band-input::placeholder{color:#77737c}
+#guess-button,.primary-button{border:0;border-radius:5px;background:var(--red);color:white;padding:12px 17px;font-size:11px;font-weight:800;letter-spacing:1px}
+#guess-button:hover,.primary-button:hover{background:#ed5143}
+#guess-button span{font-size:15px;margin-left:8px}
+.search-hint{color:#77737e;letter-spacing:.4px;font-size:10px;font-weight:500;margin:9px 0 0}
+.suggestions{position:absolute;z-index:5;top:76px;left:0;right:0;background:#24232a;border:1px solid #46434c;border-radius:7px;box-shadow:0 15px 35px #0009;max-height:260px;overflow:auto}
+.suggestion{display:flex;align-items:center;justify-content:space-between;width:100%;padding:12px 14px;border:0;border-bottom:1px solid #ffffff0c;background:transparent;color:#eee;text-align:left;font-size:13px}
+.suggestion:hover,.suggestion.active{background:#39333a}
+.suggestion small{color:#928d98;font-size:10px}
+.no-results{padding:14px;color:#aaa;font-size:12px}
+.legend{display:flex;gap:19px;justify-content:flex-end;color:#a8a4ad;font-size:9px;margin:23px 0 12px}
+.legend span{display:flex;align-items:center;gap:6px}
+.swatch{display:inline-block;width:10px;height:10px;border-radius:2px;flex:none}
+.swatch.green{background:#238a58}.swatch.yellow{background:#c49a2b}.swatch.black{background:#45434d}
+.guess-grid{display:grid;grid-template-columns:1.25fr .7fr 1.25fr .85fr .7fr;gap:6px}
+.header-grid{padding:0 0 9px;border-bottom:1px solid #ffffff17}
+.column-heading{font-size:9px;color:#88848e;text-align:center;letter-spacing:1px}
+.band-heading{text-align:left;padding-left:8px}
+.guess-history{display:flex;flex-direction:column;gap:7px;padding-top:8px}
+.empty-state{min-height:125px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:7px;color:#77737e}
+.empty-icon{font-size:24px;color:#a33b34}
+.empty-state strong{font-family:"Barlow Condensed",sans-serif;font-size:17px;letter-spacing:1.5px;color:#aaa5ae}
+.empty-state span:last-child{font-size:11px}
+.guess-row .tile{min-width:0;min-height:62px;border-radius:5px;display:flex;align-items:center;justify-content:center;text-align:center;padding:8px 5px;color:white;font-size:11px;font-weight:700;line-height:1.25;overflow-wrap:anywhere;animation:pop .25s ease both}
+.guess-row .tile.band-tile{justify-content:flex-start;text-align:left;padding-left:10px;background:#28272e}
+.tile.green{background:#18784b}.tile.yellow{background:#9b761d}.tile.black{background:#292930}
+@keyframes pop{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+.result-panel{margin-top:18px;border:1px solid #ffffff20;border-radius:8px;padding:18px;background:#111116}
+.result-panel h3{font:800 25px "Barlow Condensed",sans-serif;margin:0 0 5px}
+.result-panel p{font-size:12px;color:#b4b0b8;line-height:1.6;margin:5px 0}
+.result-panel .answer-name{color:#fff}
+.result-actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:14px}
+.result-actions button{padding:10px 13px}
+.below-game{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:15px 0 35px}
+.how-card,.side-card{border:1px solid #2e2d35;border-radius:9px;padding:21px;background:#17171c}
+.section-kicker{color:var(--red);font-size:9px}
+h2{font-size:25px;margin:5px 0 17px}
+.rule-list{display:flex;flex-direction:column;gap:11px}
+.rule-list>div{display:flex;align-items:center;gap:10px}
+.rule-list .swatch{width:12px;height:12px}
+.rule-list p{display:flex;flex-direction:column;gap:3px;margin:0;font-size:12px}
+.rule-list p span{font-size:11px;color:#96929c}
+.fine-print{font-size:10px;line-height:1.65;color:#77737e;margin:16px 0 0}
+.mini-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin:22px 0}
+.mini-stats div,.stats-grid div{display:flex;flex-direction:column;gap:5px;padding:12px 8px;background:#222128;border-radius:5px;text-align:center}
+.mini-stats strong,.stats-grid strong{font:800 25px "Barlow Condensed",sans-serif}
+.mini-stats span,.stats-grid span{font-size:8px;color:#88838e;letter-spacing:1px}
+.text-button{border:0;background:transparent;color:#d5a19c;padding:0;font-size:10px;font-weight:800;letter-spacing:1px}
+.text-button:hover{color:white}
+footer{display:flex;justify-content:space-between;color:#625e68;padding:18px 0 25px;border-top:1px solid #ffffff12;font-size:9px}
+.modal{width:min(500px,calc(100% - 30px));background:#1a191f;color:var(--text);border:1px solid #44414b;border-radius:12px;padding:28px;box-shadow:0 25px 90px #000b}
+.modal::backdrop{background:#000b;backdrop-filter:blur(4px)}
+.modal-close{position:absolute;right:17px;top:12px;border:0;background:transparent;color:#aaa;font-size:27px}
+.modal h2{font-size:30px;margin:7px 0 12px}
+.modal p{font-size:12px;line-height:1.7;color:#b4b0b8}
+.modal-rules{margin:17px 0}
+.modal-rules p{display:flex;align-items:flex-start;gap:10px}
+.modal-rules .swatch{margin-top:4px}
+.stats-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:20px 0}
+.full-button{width:100%}
+@media(max-width:650px){.site-shell{padding:0 13px}.topbar{height:62px}.intro{padding:38px 0 24px}.game-panel{padding:18px 12px}.guess-grid{grid-template-columns:1.1fr .65fr 1.1fr .8fr .68fr;gap:4px}.column-heading{font-size:7px;letter-spacing:.5px}.guess-row .tile{font-size:9px;min-height:58px;padding:5px 3px}.guess-row .tile.band-tile{padding-left:6px}.legend{justify-content:center;gap:13px}.legend span{font-size:8px}.below-game{grid-template-columns:1fr}.search-control{gap:7px}#guess-button{padding:11px 10px;font-size:10px}#band-input{font-size:12px}.suggestions{top:73px}footer{font-size:7px;letter-spacing:.8px}}
