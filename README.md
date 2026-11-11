@@ -1,32 +1,23 @@
 # METLE
 
-A dark, underground tape-cover-inspired metal band guessing game.
+A static daily metal-band guessing game for GitHub Pages.
 
-## Files to upload
-Upload all five files in this folder to the root of your existing GitHub Pages repository:
-- `index.html`
-- `style.css`
-- `script.js`
-- `bands.json`
-- `README.md` (optional)
+## Files
+- `index.html` — page structure
+- `style.css` — minimalist black-and-white zine styling
+- `script.js` — daily puzzle, autocomplete, clue comparisons, local stats
+- `bands.json` — band list and clue data
 
-## Update the live site
-1. Open your existing `metaldle` GitHub repository.
-2. Choose **Add file → Upload files**.
-3. Drag the five files from this folder into the upload area.
-4. GitHub will indicate that files with the same names will be replaced.
-5. Commit directly to the `main` branch.
-6. Wait for Pages to redeploy, then hard-refresh the site (Ctrl+Shift+R).
+## Publish on GitHub Pages
+1. Open your existing repository (keep its current repository name).
+2. Upload/replace these five files in the repository root: `index.html`, `style.css`, `script.js`, `bands.json`, and this `README.md`.
+3. Commit the changes to `main`.
+4. In **Settings → Pages**, set **Deploy from a branch**, branch `main`, folder `/(root)`, then save.
+5. Wait for the Pages deployment to finish and refresh your site.
 
-Keep the repository name `metaldle` if that is already the URL you shared. The visible game name is now METLE; the repository itself does not need renaming.
+## Important database note
+All 128 names and the genre labels were imported from the supplied `metle Bands.txt`. The earlier prototype contained complete clue profiles for only a subset of those bands. Those verified-in-the-existing-draft profiles were carried over; other entries have blank year/country/status fields and are shown in autocomplete, but are not eligible as daily answers until their metadata is completed. The footer reports the number of answer profiles currently ready. This avoids inventing debut dates, countries, or activity status.
 
-## Band database
-Edit `bands.json` to add bands. Each band needs:
-`name`, `aliases`, `debut_year`, `first_release`, `genre`, `subgenre`, `parent_genre`, `country`, `active`.
+Genre matching uses all genre labels supplied for each band. A matching supplied genre is green; a different label in the same broad family is yellow. Year is exact green / within three years yellow. Country is exact green / shared land border yellow. Status is exact green.
 
-## Prototype notes
-- The starter database is small and should be fact-checked and expanded.
-- Daily answer selection runs in the browser, so the answer can be discovered by inspecting the public `bands.json` file. A backend is needed to protect it.
-- Player progress and stats are stored in browser localStorage, not in online accounts.
-- Country border data is a starter list; expand and verify it as you add countries.
-- Daily reset uses UTC.
+Daily selection and stats use UTC dates. Stats are stored in the visitor's browser (`localStorage`); they do not sync across devices. This is a static GitHub Pages build, so the daily answer is present in the public `bands.json` file and can be inspected by determined visitors.
