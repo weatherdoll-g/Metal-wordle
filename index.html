@@ -1,5 +1,89 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#080808"><title>METLE</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet"><link rel="stylesheet" href="style.css"></head>
-<body><main class="wrap"><header><a class="logo" href="./">METLE</a><nav><button id="rules">RULES</button><button id="stats">STATS</button></nav></header><section class="intro"><p class="eyebrow">DAILY METAL BAND GUESS</p><h1>ONE BAND. TEN GUESSES.</h1><p id="date"></p></section><section class="game"><div class="counter"><span>GUESSES</span><b id="count">0 / 10</b></div><div class="progress"><i id="bar"></i></div><label for="entry">NAME THE BAND</label><div class="search"><input id="entry" autocomplete="off" spellcheck="false" placeholder="TYPE A BAND NAME"><button id="submit">GUESS</button></div><div id="suggestions" class="suggestions" hidden></div><p class="hint" id="hint">START TYPING TO SEE THE BAND LIST.</p><div class="legend"><span><i class="g"></i> EXACT</span><span><i class="y"></i> CLOSE</span><span><i class="b"></i> WRONG</span></div><div class="grid headings"><b>BAND</b><b>DEBUT</b><b>GENRE</b><b>COUNTRY</b><b>STATUS</b></div><div id="history"><p class="empty">NO GUESSES YET.</p></div><section id="result" hidden></section></section><footer><span>METLE / AN UNDERGROUND METAL GUESSING GAME</span><span id="pool"></span></footer></main>
-<dialog id="rules-dialog"><button class="close" data-close>×</button><h2>RULES</h2><p>Guess the mystery band in ten tries. Start typing to use the band autocomplete.</p><ul><li><b>Green:</b> exact match.</li><li><b>Yellow year:</b> within three years.</li><li><b>Yellow genre:</b> same broad genre family, different subgenre.</li><li><b>Yellow country:</b> the countries share a land border.</li><li><b>Status:</b> active or disbanded must match exactly.</li></ul><p>The debut year is the first album or EP; demos do not count.</p></dialog>
-<dialog id="stats-dialog"><button class="close" data-close>×</button><h2>YOUR RECORD</h2><div class="stats"><p>PLAYED <b id="played">0</b></p><p>WON <b id="won">0</b></p><p>WIN RATE <b id="rate">0%</b></p><p>STREAK <b id="streak">0</b></p></div></dialog><script src="script.js"></script></body></html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#000000">
+  <meta name="description" content="METLE — a daily underground metal band guessing game.">
+  <title>METLE</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="page">
+    <header class="topbar">
+      <a class="wordmark" href="./" aria-label="METLE home">METLE</a>
+      <nav class="nav" aria-label="Site navigation">
+        <button id="rules" class="text-button" type="button">RULES</button>
+        <button id="stats" class="text-button" type="button">STATS</button>
+      </nav>
+    </header>
+
+    <section class="masthead" aria-label="Daily game">
+      <p class="date" id="date"></p>
+      <p class="edition">DAILY BAND GUESS / TEN GUESSES</p>
+    </section>
+
+    <section class="game" aria-label="Guess the band">
+      <div class="game-meta">
+        <span>GUESSES</span>
+        <span id="count" class="guess-count">0 / 10</span>
+      </div>
+      <div class="progress" aria-hidden="true"><span id="bar"></span></div>
+
+      <label class="field-label" for="entry">NAME THE BAND</label>
+      <div class="search">
+        <input id="entry" type="text" autocomplete="off" spellcheck="false" placeholder="TYPE BAND NAME" aria-label="Band name">
+        <button id="submit" class="guess-button" type="button">GUESS</button>
+      </div>
+      <div id="suggestions" class="suggestions" hidden></div>
+      <p class="hint" id="hint" aria-live="polite">START TYPING TO SEARCH THE LIST.</p>
+
+      <div class="legend" aria-label="Clue key">
+        <span><i class="key-green"></i> EXACT</span>
+        <span><i class="key-yellow"></i> CLOSE</span>
+        <span><i class="key-black"></i> WRONG</span>
+      </div>
+
+      <div class="table-scroll">
+        <div class="grid headings" aria-hidden="true">
+          <b>BAND</b><b>DEBUT</b><b>GENRE</b><b>COUNTRY</b><b>STATUS</b>
+        </div>
+        <div id="history" aria-live="polite"><p class="empty">NO GUESSES YET.</p></div>
+      </div>
+      <section id="result" hidden aria-live="polite"></section>
+    </section>
+
+    <footer class="footer">
+      <span>METLE</span>
+      <span>AN UNDERGROUND METAL GUESSING GAME</span>
+      <span id="pool"></span>
+    </footer>
+  </main>
+
+  <dialog id="rules-dialog" aria-labelledby="rules-title">
+    <button class="close text-button" data-close type="button" aria-label="Close">×</button>
+    <h2 id="rules-title">RULES</h2>
+    <p>Find the mystery band in ten guesses. Start typing to search the band list.</p>
+    <ul>
+      <li><b>Green</b> — exact match.</li>
+      <li><b>Yellow year</b> — within three years.</li>
+      <li><b>Yellow genre</b> — same broad genre family, different subgenre.</li>
+      <li><b>Yellow country</b> — shares a land border with the answer's country.</li>
+      <li><b>Status</b> — must match exactly.</li>
+    </ul>
+    <p>Debut year means the earliest official album or EP. Demos do not count.</p>
+  </dialog>
+
+  <dialog id="stats-dialog" aria-labelledby="stats-title">
+    <button class="close text-button" data-close type="button" aria-label="Close">×</button>
+    <h2 id="stats-title">YOUR RECORD</h2>
+    <div class="stats">
+      <p>PLAYED <b id="played">0</b></p>
+      <p>WON <b id="won">0</b></p>
+      <p>WIN RATE <b id="rate">0%</b></p>
+      <p>STREAK <b id="streak">0</b></p>
+    </div>
+  </dialog>
+  <script src="script.js"></script>
+</body>
+</html>
