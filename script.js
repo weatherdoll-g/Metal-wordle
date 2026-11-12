@@ -6,6 +6,7 @@ function loadStats(){try{return{...fresh(),...JSON.parse(localStorage.getItem(KE
 function save(){try{localStorage.setItem(KEY,JSON.stringify(stats))}catch(e){console.warn('Could not save local stats',e)}}
 function norm(s){return String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim()}
 function esc(s){return String(s??'—').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function isPlayable(b){return Number.isInteger(b.debut_year)&&!!b.country&&typeof b.active==='boolean'&&Array.isArray(b.genres)&&b.genres.length>0&&!!b.first_release&&!!b.status}
 function day(){return new Date().toISOString().slice(0,10)}
 function num(){return Math.floor((Date.parse(day()+'T00:00:00Z')-Date.parse(EPOCH+'T00:00:00Z'))/86400000)}
 const borders={
@@ -51,15 +52,15 @@ function suggest(q){
   const box=$('suggestions');active=-1;if(!q.trim()||done){box.hidden=true;return}
   const n=norm(q),matches=bands.filter(b=>norm(b.name).includes(n)||(b.aliases||[]).some(a=>norm(a).includes(n)))
     .filter(b=>!guesses.some(g=>g.name===b.name)).slice(0,9);
-  box.innerHTML=matches.length?matches.map(b=>`<button class="suggestion" data-name="${esc(b.name)}"><span>${esc(b.name)}</span><small>${b.debut_year} / ${esc(b.country)}</small></button>`).join(''):'<div class="suggestion">NO MATCHING BANDS</div>';
-  box.hidden=false;box.querySelectorAll('button').forEach(x=>x.onclick=()=>pick(x.dataset.name));
+  box.innerHTML=matches.length?matches.map(b=>{const ready=isPlayable(b);return `<button class="suggestion" data-name="${esc(b.name)}" ${ready?'':'disabled'}><span>${esc(b.name)}</span><small>${ready?`${b.debut_year} / ${esc(b.country)}`:'PROFILE NEEDED'}</small></button>`}).join(''):'<div class="suggestion">NO MATCHING BANDS</div>';
+  box.hidden=false;box.querySelectorAll('button:not(:disabled)').forEach(x=>x.onclick=()=>pick(x.dataset.name));
 }
 function pick(n){chosen=bands.find(b=>b.name===n);$('entry').value=chosen?.name||'';$('suggestions').hidden=true;$('entry').focus()}
 function submit(){
   if(done)return;
   const typed=$('entry').value;
-  const b=chosen||bands.find(x=>norm(x.name)===norm(typed)||(x.aliases||[]).some(a=>norm(a)===norm(typed)));
-  if(!b){$('hint').textContent='CHOOSE A BAND FROM THE AUTOCOMPLETE LIST.';return}
+  const b=chosen||pool.find(x=>norm(x.name)===norm(typed)||(x.aliases||[]).some(a=>norm(a)===norm(typed)));
+  if(!b){$('hint').textContent='CHOOSE A COMPLETE BAND PROFILE FROM THE AUTOCOMPLETE LIST.';return}
   if(guesses.some(x=>x.name===b.name)){$('hint').textContent='YOU ALREADY GUESSED THAT BAND.';return}
   chosen=null;guesses.push(b);$('entry').value='';$('suggestions').hidden=true;$('hint').textContent='';draw(b);progress();saveGame();
   if(b.name===answer.name)finish(true);else if(guesses.length>=MAX)finish(false);
@@ -80,17 +81,17 @@ async function copy(){try{await navigator.clipboard.writeText(share());$('copy')
 function statsView(){$('played').textContent=stats.played;$('won').textContent=stats.won;$('rate').textContent=(stats.played?Math.round(stats.won/stats.played*100):0)+'%';$('streak').textContent=stats.streak}
 function restore(){
   const s=stats.games[day()];if(!s)return;
-  guesses=(s.names||[]).map(n=>bands.find(b=>b.name===n)).filter(Boolean);guesses.forEach(draw);progress();
+  guesses=(s.names||[]).map(n=>bands.find(b=>norm(b.name)===norm(n))).filter(b=>b&&isPlayable(b));guesses.forEach(draw);progress();
   if(s.done){done=true;$('entry').disabled=true;$('submit').disabled=true;result()}
 }
 async function init(){
   try{
     const r=await fetch('./bands.json');if(!r.ok)throw Error('bands.json not found');bands=await r.json();
-    pool=bands.filter(b=>b.debut_year!=null&&b.country&&b.active!=null&&b.genres?.length&&b.first_release&&b.status);
-    if(pool.length!==128)throw Error(`Expected 128 complete profiles; found ${pool.length}`);
+    pool=bands.filter(isPlayable);
+    if(!pool.length)throw Error('No complete band profiles found.');
     answer=pool[((num()%pool.length)+pool.length)%pool.length];
     $('date').textContent=new Date().toLocaleDateString(undefined,{weekday:'long',month:'long',day:'numeric'}).toUpperCase();
-    $('pool').textContent=`${pool.length} BANDS IN THE DAILY POOL`;
+    $('pool').textContent=`${pool.length} PLAYABLE / ${bands.length} BANDS LISTED`;
     $('entry').oninput=e=>{chosen=null;suggest(e.target.value)};
     $('entry').onkeydown=e=>{
       const items=[...$('suggestions').querySelectorAll('button')];
