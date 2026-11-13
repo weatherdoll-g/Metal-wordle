@@ -1,6 +1,6 @@
 [
   {
-    "name": "abigor",
+    "name": "ABIGOR",
     "genres": [
       "Black Metal"
     ],
@@ -15,10 +15,9 @@
     "status": "Active"
   },
   {
-    "name": "abominable putridity",
+    "name": "ABOMINABLE PUTRIDITY",
     "genres": [
-      "Slam Death Metal",
-      "Brutal Death Metal"
+      "Slam Death Metal"
     ],
     "debut_year": 2003,
     "first_release": "In the End of Human Existence",
@@ -31,7 +30,7 @@
     "status": "Active"
   },
   {
-    "name": "abyssic hate",
+    "name": "ABYSSIC HATE",
     "genres": [
       "Black Metal"
     ],
@@ -46,7 +45,7 @@
     "status": "Disbanded"
   },
   {
-    "name": "accept",
+    "name": "ACCEPT",
     "genres": [
       "Heavy Metal"
     ],
@@ -61,7 +60,7 @@
     "status": "Active"
   },
   {
-    "name": "acid bath",
+    "name": "ACID BATH",
     "genres": [
       "Sludge Metal"
     ],
@@ -76,7 +75,7 @@
     "status": "Active"
   },
   {
-    "name": "acid king",
+    "name": "ACID KING",
     "genres": [
       "Doom Metal",
       "Stoner Metal"
@@ -92,7 +91,7 @@
     "status": "Active"
   },
   {
-    "name": "admiral angry",
+    "name": "ADMIRAL ANGRY",
     "genres": [
       "Sludge Metal",
       "Mathcore"
@@ -104,15 +103,12 @@
     "aliases": [],
     "parent_genres": [
       "Doom Metal",
-      "Sludge Metal",
-      "Metalcore",
-      "Hardcore Punk",
-      "Progressive Metal"
+      "Metalcore"
     ],
     "status": "Disbanded"
   },
   {
-    "name": "adramelech",
+    "name": "ADRAMELECH",
     "genres": [
       "Death Metal"
     ],
@@ -127,9 +123,8 @@
     "status": "Active"
   },
   {
-    "name": "agalloch",
+    "name": "AGALLOCH",
     "genres": [
-      "Folk Black Metal",
       "Atmospheric Black Metal",
       "Folk Metal"
     ],
@@ -145,7 +140,7 @@
     "status": "Active"
   },
   {
-    "name": "agent steel",
+    "name": "AGENT STEEL",
     "genres": [
       "Power Metal",
       "Speed Metal",
@@ -159,13 +154,12 @@
     "parent_genres": [
       "Power Metal",
       "Speed Metal",
-      "Heavy Metal",
       "Thrash Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "agoraphobic nosebleed",
+    "name": "AGORAPHOBIC NOSEBLEED",
     "genres": [
       "Grindcore",
       "Cybergrind"
@@ -182,7 +176,7 @@
     "status": "Active"
   },
   {
-    "name": "agathocles",
+    "name": "AGATHOCLES",
     "genres": [
       "Grindcore",
       "Mincecore"
@@ -199,24 +193,7 @@
     "status": "Active"
   },
   {
-    "name": "agothodaimon",
-    "genres": [
-      "Symphonic Black Metal",
-      "Gothic Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "Blacken the Angel",
-    "country": "Germany",
-    "active": true,
-    "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Gothic Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "ahab",
+    "name": "AHAB",
     "genres": [
       "Funeral Doom Metal"
     ],
@@ -231,7 +208,7 @@
     "status": "Active"
   },
   {
-    "name": "alcest",
+    "name": "ALCEST",
     "genres": [
       "Post-Black Metal",
       "Shoegaze"
@@ -248,9 +225,9 @@
     "status": "Active"
   },
   {
-    "name": "anaal nathrakh",
+    "name": "ANAAL NATHRAKH",
     "genres": [
-      "Black Metal",
+      "Industrial Black Metal",
       "Grindcore"
     ],
     "debut_year": 2001,
@@ -265,7 +242,7 @@
     "status": "Disbanded"
   },
   {
-    "name": "anata",
+    "name": "ANATA",
     "genres": [
       "Technical Death Metal"
     ],
@@ -280,7 +257,7 @@
     "status": "On Hold"
   },
   {
-    "name": "angel corpse",
+    "name": "ANGELCORPSE",
     "genres": [
       "Blackened Death Metal"
     ],
@@ -296,7 +273,7 @@
     "status": "Disbanded"
   },
   {
-    "name": "angel witch",
+    "name": "ANGEL WITCH",
     "genres": [
       "Heavy Metal",
       "NWOBHM"
@@ -312,7 +289,7 @@
     "status": "Active"
   },
   {
-    "name": "angra",
+    "name": "ANGRA",
     "genres": [
       "Power Metal",
       "Progressive Metal"
@@ -329,7 +306,7 @@
     "status": "Active"
   },
   {
-    "name": "animals as leaders",
+    "name": "ANIMALS AS LEADERS",
     "genres": [
       "Progressive Metal",
       "Djent"
@@ -345,7 +322,7 @@
     "status": "Active"
   },
   {
-    "name": "annihilator",
+    "name": "ANNIHILATOR",
     "genres": [
       "Thrash Metal"
     ],
@@ -360,7 +337,7 @@
     "status": "Active"
   },
   {
-    "name": "anthrax",
+    "name": "ANTHRAX"
     "genres": [
       "Thrash Metal"
     ],
@@ -375,7 +352,7 @@
     "status": "Active"
   },
   {
-    "name": "anvil",
+    "name": "ANVIL",
     "genres": [
       "Heavy Metal"
     ],
@@ -390,10 +367,9 @@
     "status": "Active"
   },
   {
-    "name": "apocalyptica",
+    "name": "APOCALYPTICA",
     "genres": [
       "Symphonic Metal",
-      "Cello Metal"
     ],
     "debut_year": 1996,
     "first_release": "Plays Metallica by Four Cellos",
@@ -401,14 +377,12 @@
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Heavy Metal",
-      "Power Metal",
       "Symphonic Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "arch enemy",
+    "name": "ARCH ENEMY",
     "genres": [
       "Melodic Death Metal"
     ],
@@ -423,7 +397,7 @@
     "status": "Active"
   },
   {
-    "name": "archgoat",
+    "name": "ARCHGOAT",
     "genres": [
       "Blackened Death Metal"
     ],
@@ -439,7 +413,7 @@
     "status": "Active"
   },
   {
-    "name": "archspire",
+    "name": "ARCHSPIRE",
     "genres": [
       "Technical Death Metal"
     ],
@@ -454,7 +428,7 @@
     "status": "Active"
   },
   {
-    "name": "armored saint",
+    "name": "ARMORED SAINT",
     "genres": [
       "Heavy Metal"
     ],
@@ -469,7 +443,7 @@
     "status": "Active"
   },
   {
-    "name": "Artillery",
+    "name": "ARTILLERY",
     "genres": [
       "Thrash Metal"
     ],
@@ -484,7 +458,7 @@
     "status": "Active"
   },
   {
-    "name": "As I Lay Dying",
+    "name": "AS I LAY DYING",
     "genres": [
       "Metalcore"
     ],
@@ -499,7 +473,7 @@
     "status": "Active"
   },
   {
-    "name": "Asphyx",
+    "name": "ASPHYX",
     "genres": [
       "Death Metal",
       "Doom Metal"
@@ -516,7 +490,7 @@
     "status": "Active"
   },
   {
-    "name": "Assück",
+    "name": "ASSÜCK",
     "genres": [
       "Deathgrind"
     ],
@@ -531,7 +505,7 @@
     "status": "Inactive"
   },
   {
-    "name": "At the Gates",
+    "name": "AT THE GATES",
     "genres": [
       "Melodic Death Metal"
     ],
@@ -546,7 +520,7 @@
     "status": "Active"
   },
   {
-    "name": "Atheist",
+    "name": "ATHEIST",
     "genres": [
       "Technical Death Metal",
       "Progressive Metal"
@@ -563,7 +537,7 @@
     "status": "Active"
   },
   {
-    "name": "August Burns Red",
+    "name": "AUGUST BURNS RED",
     "genres": [
       "Metalcore"
     ],
@@ -578,7 +552,7 @@
     "status": "Active"
   },
   {
-    "name": "Aura Noir",
+    "name": "AURA NOIR",
     "genres": [
       "Blackened Thrash Metal"
     ],
@@ -594,7 +568,7 @@
     "status": "Active"
   },
   {
-    "name": "Autopsy",
+    "name": "AUTOPSY",
     "genres": [
       "Death Metal"
     ],
@@ -609,7 +583,7 @@
     "status": "Active"
   },
   {
-    "name": "Avantasia",
+    "name": "AVANTASIA",
     "genres": [
       "Power Metal"
     ],
@@ -624,7 +598,7 @@
     "status": "Active"
   },
   {
-    "name": "Azarath",
+    "name": "AZARATH",
     "genres": [
       "Blackened Death Metal"
     ],
@@ -640,7 +614,7 @@
     "status": "Active"
   },
   {
-    "name": "Baphomet",
+    "name": "BAPHOMET",
     "genres": [
       "Death Metal"
     ],
@@ -655,7 +629,7 @@
     "status": "Active"
   },
   {
-    "name": "bathory",
+    "name": "BATHORY",
     "genres": [
       "Black Metal",
       "Viking Metal"
@@ -672,7 +646,7 @@
     "status": "Inactive"
   },
   {
-    "name": "Batushka (Батюшка)",
+    "name": "BATUSHKA (БАТЮШКА)",
     "genres": [
       "Black Metal"
     ],
@@ -687,7 +661,7 @@
     "status": "Active"
   },
   {
-    "name": "Behemoth",
+    "name": "BEHEMOTH",
     "genres": [
       "Blackened Death Metal"
     ],
@@ -703,7 +677,7 @@
     "status": "Active"
   },
   {
-    "name": "Beherit",
+    "name": "BEHERIT",
     "genres": [
       "Black Metal"
     ],
@@ -718,7 +692,7 @@
     "status": "Active"
   },
   {
-    "name": "Behexen",
+    "name": "BEHEXEN",
     "genres": [
       "Black Metal"
     ],
@@ -733,7 +707,7 @@
     "status": "Active"
   },
   {
-    "name": "Bekëth Nexëhmü",
+    "name": "BEKËTH NEXËHMÜ",
     "genres": [
       "Black Metal"
     ],
@@ -748,7 +722,7 @@
     "status": "Active"
   },
   {
-    "name": "Belkètre",
+    "name": "BELKÈTRE",
     "genres": [
       "Black Metal"
     ],
@@ -763,7 +737,7 @@
     "status": "Disbanded"
   },
   {
-    "name": "bell witch",
+    "name": "BELL WITCH",
     "genres": [
       "Funeral Doom Metal"
     ],
@@ -778,7 +752,7 @@
     "status": "Active"
   },
   {
-    "name": "belphegor",
+    "name": "BELPHEGOR",
     "genres": [
       "Blackened Death Metal"
     ],
@@ -794,7 +768,7 @@
     "status": "Active"
   },
   {
-    "name": "benediction",
+    "name": "BENEDICTION",
     "genres": [
       "Death Metal"
     ],
@@ -809,7 +783,7 @@
     "status": "Active"
   },
   {
-    "name": "bestial warlust",
+    "name": "BESTIAL WARLUST",
     "genres": [
       "War Metal",
       "Blackened Death Metal"
@@ -826,7 +800,7 @@
     "status": "Disbanded"
   },
   {
-    "name": "between the buried and me",
+    "name": "BETWEEN THE BURIED AND ME",
     "genres": [
       "Progressive Metal",
       "Metalcore"
@@ -843,7 +817,7 @@
     "status": "Active"
   },
   {
-    "name": "beyond creation",
+    "name": "BEYOND CREATION"
     "genres": [
       "Technical Death Metal",
       "Progressive Death Metal"
@@ -860,7 +834,7 @@
     "status": "Active"
   },
   {
-    "name": "black dahlia murder",
+    "name": "BLACK DAHLIA MURDER",
     "genres": [
       "Melodic Death Metal"
     ],
@@ -875,7 +849,7 @@
     "status": "Active"
   },
   {
-    "name": "black sabbath",
+    "name": "BLACK SABBATH"
     "genres": [
       "Heavy Metal",
       "Traditional Doom Metal"
@@ -892,7 +866,7 @@
     "status": "Disbanded"
   },
   {
-    "name": "blasphemy",
+    "name": "BLASPHEMY",
     "genres": [
       "War Metal",
       "Blackened Death Metal"
@@ -909,7 +883,7 @@
     "status": "Active"
   },
   {
-    "name": "blind guardian",
+    "name": "BLIND GUARDIAN",
     "genres": [
       "Power Metal"
     ],
@@ -924,7 +898,7 @@
     "status": "Active"
   },
   {
-    "name": "blood incantation",
+    "name": "BLOOD INCANTATION",
     "genres": [
       "Progressive Metal",
       "Death Metal"
@@ -941,7 +915,7 @@
     "status": "Active"
   },
   {
-    "name": "blut aus nord",
+    "name": "BLUT AUS NORD",
     "genres": [
       "Atmospheric Black Metal",
       "Post Metal"
@@ -958,7 +932,7 @@
     "status": "Active"
   },
   {
-    "name": "bolt thrower",
+    "name": "BOLT THROWER",
     "genres": [
       "Death Metal"
     ],
@@ -973,7 +947,7 @@
     "status": "Disbanded"
   },
   {
-    "name": "bongripper",
+    "name": "BONGRIPPER",
     "genres": [
       "Drone Metal",
       "Doom Metal"
@@ -984,13 +958,12 @@
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Doom Metal",
-      "Drone Metal"
+      "Doom Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "bongzilla",
+    "name": "BONGZILLA",
     "genres": [
       "Stoner Metal",
       "Sludge Metal"
@@ -1001,13 +974,12 @@
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
+      "Doom Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "boris",
+    "name": "BORIS (ボリス)",
     "genres": [
       "Drone Metal",
       "Stoner Metal"
@@ -1018,13 +990,12 @@
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Doom Metal",
-      "Drone Metal"
+      "Doom Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "bring me the horizon",
+    "name": "BRING ME THE HORIZON",
     "genres": [
       "Metalcore",
       "Alternative Metal"
@@ -1041,7 +1012,7 @@
     "status": "Active"
   },
   {
-    "name": "brodequin",
+    "name": "BRODEQUIN",
     "genres": [
       "Brutal Death Metal"
     ],
@@ -1056,7 +1027,7 @@
     "status": "Active"
   },
   {
-    "name": "brutal truth",
+    "name": "BRUTAL TRUTH",
     "genres": [
       "Grindcore"
     ],
@@ -1071,7 +1042,7 @@
     "status": "Disbanded"
   },
   {
-    "name": "burzum",
+    "name": "BURZUM",
     "genres": [
       "Atmospheric Black Metal"
     ],
@@ -1086,7 +1057,7 @@
     "status": "Active"
   },
   {
-    "name": "buzzov*en",
+    "name": "BUZZOV*EN",
     "genres": [
       "Sludge Metal"
     ],
@@ -1096,13 +1067,12 @@
     "active": false,
     "aliases": [],
     "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
+      "Doom Metal"
     ],
     "status": "Disbanded"
   },
   {
-    "name": "cancer",
+    "name": "CANCER",
     "genres": [
       "Death Metal"
     ],
@@ -1117,7 +1087,7 @@
     "status": "Active"
   },
   {
-    "name": "candlemass",
+    "name": "CANDLEMASS",
     "genres": [
       "Epic Doom Metal"
     ],
@@ -1132,7 +1102,7 @@
     "status": "Active"
   },
   {
-    "name": "cannibal corpse",
+    "name": "CANNIBAL CORPSE",
     "genres": [
       "Death Metal"
     ],
@@ -1147,7 +1117,7 @@
     "status": "Active"
   },
   {
-    "name": "captain cleanoff",
+    "name": "CAPTAIN CLEANOFF",
     "genres": [
       "Grindcore"
     ],
@@ -1162,7 +1132,7 @@
     "status": "Active"
   },
   {
-    "name": "carcass",
+    "name": "CARCASS",
     "genres": [
       "Melodic Death Metal",
       "Goregrind"
@@ -1179,7 +1149,7 @@
     "status": "Active"
   },
   {
-    "name": "carpathian forest",
+    "name": "CARPATHIAN FOREST",
     "genres": [
       "Black Metal"
     ],
@@ -1194,7 +1164,7 @@
     "status": "Active"
   },
   {
-    "name": "cathedral",
+    "name": "CATHEDRAL",
     "genres": [
       "Doom Metal"
     ],
@@ -1209,7 +1179,7 @@
     "status": "Disbanded"
   },
   {
-    "name": "cattle decapitation",
+    "name": "CATTLE DECAPITATION",
     "genres": [
       "Technical Death Metal",
       "Deathgrind"
@@ -1226,7 +1196,7 @@
     "status": "Active"
   },
   {
-    "name": "celtic frost",
+    "name": "CELTIC FROST",
     "genres": [
       "Thrash Metal",
       "Doom Metal",
@@ -1245,7 +1215,7 @@
     "status": "Disbanded"
   },
   {
-    "name": "cenotaph",
+    "name": "CENOTAPH",
     "genres": [
       "Brutal Death Metal"
     ],
@@ -1260,7 +1230,7 @@
     "status": "Active"
   },
   {
-    "name": "chained to the bottom of the ocean",
+    "name": "CHAINED TO THE BOTTOM OF THE OCEAN",
     "genres": [
       "Sludge Metal",
       "Doom Metal"
@@ -1271,13 +1241,12 @@
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
+      "Doom Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "children of bodom",
+    "name": "CHILDREN OF BODOM",
     "genres": [
       "Melodic Death Metal",
       "Power Metal"
@@ -1294,9 +1263,9 @@
     "status": "Active"
   },
   {
-    "name": "circle of ouroborus",
+    "name": "CIRCLE OF OUROBOROS",
     "genres": [
-      "Experimental Black Metal"
+      "Avant-Garde Black Metal"
     ],
     "debut_year": 2004,
     "first_release": "Introitus",
@@ -1305,12 +1274,11 @@
     "aliases": [],
     "parent_genres": [
       "Black Metal",
-      "Experimental"
     ],
     "status": "Active"
   },
   {
-    "name": "colosseum",
+    "name": "COLOSSEUM",
     "genres": [
       "Funeral Doom Metal"
     ],
@@ -1325,7 +1293,7 @@
     "status": "Disbanded"
   },
   {
-    "name": "conan",
+    "name": "CONAN",
     "genres": [
       "Doom Metal",
       "Sludge Metal"
@@ -1336,13 +1304,12 @@
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
+      "Doom Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "conqueror",
+    "name": "CONQUEROR",
     "genres": [
       "War Metal"
     ],
@@ -1352,13 +1319,12 @@
     "active": false,
     "aliases": [],
     "parent_genres": [
-      "Black Metal",
-      "Death Metal"
+      "Black Metal"
     ],
     "status": "Disbanded"
   },
   {
-    "name": "converge",
+    "name": "CONVERGE",
     "genres": [
       "Metalcore"
     ],
@@ -1373,7 +1339,7 @@
     "status": "Active"
   },
   {
-    "name": "convulse",
+    "name": "CONVULSE",
     "genres": [
       "Death Metal"
     ],
@@ -1388,7 +1354,7 @@
     "status": "Active"
   },
   {
-    "name": "coroner",
+    "name": "CORONER",
     "genres": [
       "Technical Thrash Metal"
     ],
@@ -1403,7 +1369,7 @@
     "status": "Active"
   },
   {
-    "name": "cough",
+    "name": "COUGH",
     "genres": [
       "Sludge Metal",
       "Doom Metal"
@@ -1414,13 +1380,12 @@
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
+      "Doom Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "count raven",
+    "name": "COUNT RAVEN",
     "genres": [
       "Doom Metal"
     ],
@@ -1435,7 +1400,7 @@
     "status": "Active"
   },
   {
-    "name": "cradle of filth",
+    "name": "CRADLE OF FILTH",
     "genres": [
       "Symphonic Black Metal",
       "Gothic Metal"
@@ -1447,12 +1412,12 @@
     "aliases": [],
     "parent_genres": [
       "Black Metal",
-      "Gothic Metal"
+      "Doom Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "craft",
+    "name": "CRAFT",
     "genres": [
       "Black Metal"
     ],
@@ -1467,7 +1432,7 @@
     "status": "Active"
   },
   {
-    "name": "crimson glory",
+    "name": "CRIMSON GLORY",
     "genres": [
       "Progressive Metal",
       "Power Metal"
@@ -1484,7 +1449,7 @@
     "status": "Active"
   },
   {
-    "name": "crowbar",
+    "name": "CROWBAR",
     "genres": [
       "Sludge Metal"
     ],
@@ -1499,7 +1464,7 @@
     "status": "Active"
   },
   {
-    "name": "crypt sermon",
+    "name": "CRYPT SERMON",
     "genres": [
       "Epic Doom Metal"
     ],
