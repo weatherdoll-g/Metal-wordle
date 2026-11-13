@@ -44,13 +44,13 @@
         <span><i class="key-black"></i> WRONG</span>
       </div>
 
+      <section id="result" hidden aria-live="polite"></section>
       <div class="table-scroll">
         <div class="grid headings" aria-hidden="true">
           <b>BAND</b><b>DEBUT</b><b>GENRE</b><b>COUNTRY</b><b>STATUS</b>
         </div>
         <div id="history" aria-live="polite"><p class="empty">NO GUESSES YET.</p></div>
       </div>
-      <section id="result" hidden aria-live="polite"></section>
     </section>
 
     <footer class="footer">
@@ -67,10 +67,11 @@
     <ul>
       <li><b>Green</b> — exact match.</li>
       <li><b>Yellow year</b> — within three years.</li>
-      <li><b>Yellow genre</b> — same genre, different subgenre.</li>
-      <li><b>Yellow country</b> — shares a border with the answer's country.</li>
+      <li><b>Yellow genre</b> — same broad genre family, different subgenre.</li>
+      <li><b>Yellow country</b> — shares a land border with the answer's country.</li>
       <li><b>Status</b> — must match exactly.</li>
     </ul>
+    <p>Debut year means the earliest official album or EP. Demos do not count.</p>
   </dialog>
 
   <dialog id="stats-dialog" aria-labelledby="stats-title">

@@ -16,49 +16,36 @@
   },
   {
     "name": "abominable putridity",
-    "genres": [
-      "Slam Death Metal",
-      "Brutal Death Metal"
-    ],
-    "debut_year": 2003,
-    "first_release": "In the End of Human Existence",
-    "country": "Russia",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "abyssic hate",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "Suicidal Emotions",
-    "country": "Australia",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "accept",
-    "genres": [
-      "Heavy Metal"
-    ],
-    "debut_year": 1979,
-    "first_release": "Accept",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "acid bath",
@@ -77,54 +64,36 @@
   },
   {
     "name": "acid king",
-    "genres": [
-      "Doom Metal",
-      "Stoner Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Zoroaster",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "admiral angry",
-    "genres": [
-      "Sludge Metal",
-      "Mathcore"
-    ],
-    "debut_year": 2008,
-    "first_release": "Buster",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal",
-      "Metalcore",
-      "Hardcore Punk",
-      "Progressive Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "adramelech",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Psychostasia",
-    "country": "Finland",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "agalloch",
@@ -146,396 +115,296 @@
   },
   {
     "name": "agent steel",
-    "genres": [
-      "Power Metal",
-      "Speed Metal",
-      "Thrash Metal"
-    ],
-    "debut_year": 1985,
-    "first_release": "Skeptics Apocalypse",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal",
-      "Speed Metal",
-      "Heavy Metal",
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "agoraphobic nosebleed",
-    "genres": [
-      "Grindcore",
-      "Cybergrind"
-    ],
-    "debut_year": 1995,
-    "first_release": "30 Song Demo",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore",
-      "Industrial Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "agathocles",
-    "genres": [
-      "Grindcore",
-      "Mincecore"
-    ],
-    "debut_year": 1987,
-    "first_release": "Rehearsal 11/21/1987",
-    "country": "Belgium",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore",
-      "Hardcore Punk"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "agothodaimon",
-    "genres": [
-      "Symphonic Black Metal",
-      "Gothic Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "Blacken the Angel",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Gothic Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "ahab",
-    "genres": [
-      "Funeral Doom Metal"
-    ],
-    "debut_year": 2006,
-    "first_release": "The Call of the Wretched Sea",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "alcest",
-    "genres": [
-      "Post-Black Metal",
-      "Shoegaze"
-    ],
-    "debut_year": 2001,
-    "first_release": "Tristesse Hivernale",
-    "country": "France",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Post Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "anaal nathrakh",
-    "genres": [
-      "Black Metal",
-      "Grindcore"
-    ],
-    "debut_year": 2001,
-    "first_release": "The Codex Necro",
-    "country": "United Kingdom",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Grindcore"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "anata",
-    "genres": [
-      "Technical Death Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "The Infernal Depths of Hatred",
-    "country": "Sweden",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "On Hold"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "angel corpse",
-    "genres": [
-      "Blackened Death Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Hammer of Gods",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Death Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "angel witch",
-    "genres": [
-      "Heavy Metal",
-      "NWOBHM"
-    ],
-    "debut_year": 1980,
-    "first_release": "Angel Witch",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "angra",
-    "genres": [
-      "Power Metal",
-      "Progressive Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "Angels Cry",
-    "country": "Brazil",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal",
-      "Progressive Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "animals as leaders",
-    "genres": [
-      "Progressive Metal",
-      "Djent"
-    ],
-    "debut_year": 2009,
-    "first_release": "Animals as Leaders",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Progressive Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "annihilator",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1989,
-    "first_release": "Alice in Hell",
-    "country": "Canada",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "anthrax",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1984,
-    "first_release": "Fistful of Metal",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "anvil",
-    "genres": [
-      "Heavy Metal"
-    ],
-    "debut_year": 1981,
-    "first_release": "Hard 'n' Heavy",
-    "country": "Canada",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "apocalyptica",
-    "genres": [
-      "Symphonic Metal",
-      "Cello Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Plays Metallica by Four Cellos",
-    "country": "Finland",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal",
-      "Power Metal",
-      "Symphonic Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "arch enemy",
-    "genres": [
-      "Melodic Death Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Black Earth",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "archeraios",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "archgoat",
-    "genres": [
-      "Blackened Death Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "Angelcunt (Tales of Desecration)",
-    "country": "Finland",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "archspire",
-    "genres": [
-      "Technical Death Metal"
-    ],
-    "debut_year": 2011,
-    "first_release": "All Shall Align",
-    "country": "Canada",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "arduous",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "armored saint",
-    "genres": [
-      "Heavy Metal"
-    ],
-    "debut_year": 1984,
-    "first_release": "March of the Saint",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Artillery",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1982,
-    "first_release": "Fear of Tomorrow",
-    "country": "Denmark",
-    "active": true,
+    "name": "artillery",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "As I Lay Dying",
-    "genres": [
-      "Metalcore"
-    ],
-    "debut_year": 2000,
-    "first_release": "Beneath the Encasing of Ashes",
-    "country": "United States",
-    "active": true,
+    "name": "as i lay dying",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Metalcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Asphyx",
-    "genres": [
-      "Death Metal",
-      "Doom Metal"
-    ],
-    "debut_year": 1987,
-    "first_release": "The Rack",
-    "country": "Netherlands",
-    "active": true,
+    "name": "asphyx",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Assück",
-    "genres": [
-      "Deathgrind"
-    ],
-    "debut_year": 1988,
-    "first_release": "Anticapital",
-    "country": "United States",
-    "active": false,
+    "name": "assuck",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Inactive"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "At the Gates",
+    "name": "at the gates",
     "genres": [
       "Melodic Death Metal"
     ],
-    "debut_year": 1990,
+    "debut_year": 1991,
     "first_release": "Gardens of Grief",
     "country": "Sweden",
     "active": true,
@@ -546,59 +415,55 @@
     "status": "Active"
   },
   {
-    "name": "Atheist",
-    "genres": [
-      "Technical Death Metal",
-      "Progressive Metal"
-    ],
-    "debut_year": 1987,
-    "first_release": "Piece of Time",
-    "country": "United States",
-    "active": true,
+    "name": "atheist",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Progressive Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "August Burns Red",
-    "genres": [
-      "Metalcore"
-    ],
-    "debut_year": 2003,
-    "first_release": "Thrill Seeker",
-    "country": "United States",
-    "active": true,
+    "name": "august burns red",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Metalcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Aura Noir",
-    "genres": [
-      "Blackened Thrash Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "Black Thrash Attack",
-    "country": "Norway",
-    "active": true,
+    "name": "aura noir",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Autopsy",
+    "name": "author & punisher",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "autopsy",
     "genres": [
       "Death Metal"
     ],
-    "debut_year": 1987,
+    "debut_year": 1989,
     "first_release": "Severed Survival",
     "country": "United States",
     "active": true,
@@ -609,50 +474,37 @@
     "status": "Active"
   },
   {
-    "name": "Avantasia",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 1999,
-    "first_release": "The Metal Opera",
-    "country": "Germany",
-    "active": true,
+    "name": "avantasia",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Azarath",
-    "genres": [
-      "Blackened Death Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "Demon Seed",
-    "country": "Poland",
-    "active": true,
+    "name": "azarath",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Baphomet",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1987,
-    "first_release": "The Dead Shall Inherit",
-    "country": "United States",
-    "active": true,
+    "name": "baphomet",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "bathory",
@@ -667,31 +519,28 @@
     "aliases": [],
     "parent_genres": [
       "Black Metal",
-      "Folk Metal"
+      "Viking Metal"
     ],
-    "status": "Inactive"
+    "status": "Disbanded"
   },
   {
-    "name": "Batushka (Батюшка)",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 2015,
-    "first_release": "Litourgiya",
-    "country": "Poland",
-    "active": true,
+    "name": "batushka",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Behemoth",
+    "name": "behemoth",
     "genres": [
-      "Blackened Death Metal"
+      "Death Metal",
+      "Black Metal"
     ],
-    "debut_year": 1991,
+    "debut_year": 1995,
     "first_release": "Sventevith (Storming Near the Baltic)",
     "country": "Poland",
     "active": true,
@@ -703,64 +552,48 @@
     "status": "Active"
   },
   {
-    "name": "Beherit",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Drawing Down the Moon",
-    "country": "Finland",
-    "active": true,
+    "name": "beherit",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Behexen",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Rituale Satanum",
-    "country": "Finland",
-    "active": true,
+    "name": "behexen",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Bekëth Nexëhmü",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 2010,
-    "first_release": "De Fördolda Klangorna",
-    "country": "Sweden",
-    "active": true,
+    "name": "bekëth nexëhmü",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Belkètre",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "The Dark Promise",
-    "country": "France",
-    "active": false,
+    "name": "belkethre",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "bell witch",
@@ -779,51 +612,36 @@
   },
   {
     "name": "belphegor",
-    "genres": [
-      "Blackened Death Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "The Last Supper",
-    "country": "Austria",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "benediction",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Subconscious Terror",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "bestial warlust",
-    "genres": [
-      "War Metal",
-      "Blackened Death Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "Vengeance War 'Till Death",
-    "country": "Australia",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Death Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "between the buried and me",
@@ -844,35 +662,25 @@
   },
   {
     "name": "beyond creation",
-    "genres": [
-      "Technical Death Metal",
-      "Progressive Death Metal"
-    ],
-    "debut_year": 2011,
-    "first_release": "The Aura",
-    "country": "Canada",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Progressive Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "black dahlia murder",
-    "genres": [
-      "Melodic Death Metal"
-    ],
-    "debut_year": 2003,
-    "first_release": "Unhallowed",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "black sabbath",
@@ -893,35 +701,25 @@
   },
   {
     "name": "blasphemy",
-    "genres": [
-      "War Metal",
-      "Blackened Death Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Fallen Angel of Doom....",
-    "country": "Canada",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "blind guardian",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 1988,
-    "first_release": "Battalions of Fear",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "blood incantation",
@@ -974,37 +772,25 @@
   },
   {
     "name": "bongripper",
-    "genres": [
-      "Drone Metal",
-      "Doom Metal"
-    ],
-    "debut_year": 2006,
-    "first_release": "The Great Barrier Reefer",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Drone Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "bongzilla",
-    "genres": [
-      "Stoner Metal",
-      "Sludge Metal"
-    ],
-    "debut_year": 1999,
-    "first_release": "Stash",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "boris",
@@ -1025,50 +811,36 @@
   },
   {
     "name": "bring me the horizon",
-    "genres": [
-      "Metalcore",
-      "Alternative Metal"
-    ],
-    "debut_year": 2006,
-    "first_release": "Count Your Blessings",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Metalcore",
-      "Alternative Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "brodequin",
-    "genres": [
-      "Brutal Death Metal"
-    ],
-    "debut_year": 2001,
-    "first_release": "Instruments of Torture",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "brutal truth",
-    "genres": [
-      "Grindcore"
-    ],
-    "debut_year": 1992,
-    "first_release": "Extreme Conditions Demand Extreme Responses",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "burzum",
@@ -1087,34 +859,25 @@
   },
   {
     "name": "buzzov*en",
-    "genres": [
-      "Sludge Metal"
-    ],
-    "debut_year": 1991,
-    "first_release": "To a Frown",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "cancer",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "To the Gory End",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "candlemass",
@@ -1133,33 +896,25 @@
   },
   {
     "name": "cannibal corpse",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Eaten Back to Life",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "captain cleanoff",
-    "genres": [
-      "Grindcore"
-    ],
-    "debut_year": 2001,
-    "first_release": "Why",
-    "country": "Australia",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "carcass",
@@ -1180,33 +935,25 @@
   },
   {
     "name": "carpathian forest",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Black Shining Leather",
-    "country": "Norway",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "cathedral",
-    "genres": [
-      "Doom Metal"
-    ],
-    "debut_year": 1991,
-    "first_release": "Forest of Equilibrium",
-    "country": "United Kingdom",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "cattle decapitation",
@@ -1246,35 +993,25 @@
   },
   {
     "name": "cenotaph",
-    "genres": [
-      "Brutal Death Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "The Gloomy Reflection of Our Hidden Sorrows",
-    "country": "Mexico",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "chained to the bottom of the ocean",
-    "genres": [
-      "Sludge Metal",
-      "Doom Metal"
-    ],
-    "debut_year": 2017,
-    "first_release": "I Tried Catching You But You Fell Through Me",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "children of bodom",
@@ -1295,67 +1032,47 @@
   },
   {
     "name": "circle of ouroborus",
-    "genres": [
-      "Experimental Black Metal"
-    ],
-    "debut_year": 2004,
-    "first_release": "Introitus",
-    "country": "Finland",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Experimental"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "colosseum",
-    "genres": [
-      "Funeral Doom Metal"
-    ],
-    "debut_year": 2006,
-    "first_release": "Chapter 1: Delirium",
-    "country": "Finland",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "conan",
-    "genres": [
-      "Doom Metal",
-      "Sludge Metal"
-    ],
-    "debut_year": 2012,
-    "first_release": "Monnos",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "conqueror",
-    "genres": [
-      "War Metal"
-    ],
-    "debut_year": 1999,
-    "first_release": "War.Cult.Supremacy",
-    "country": "Canada",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Death Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "converge",
@@ -1374,114 +1091,80 @@
   },
   {
     "name": "convulse",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1991,
-    "first_release": "World Without God",
-    "country": "Finland",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "coroner",
-    "genres": [
-      "Technical Thrash Metal"
-    ],
-    "debut_year": 1987,
-    "first_release": "R.I.P.",
-    "country": "Switzerland",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "cough",
-    "genres": [
-      "Sludge Metal",
-      "Doom Metal"
-    ],
-    "debut_year": 2008,
-    "first_release": "Sigillum Luciferi",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "count raven",
-    "genres": [
-      "Doom Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Storm Warning",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "cradle of filth",
-    "genres": [
-      "Symphonic Black Metal",
-      "Gothic Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "The Principle of Evil Made Flesh",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Gothic Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "craft",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 2000,
-    "first_release": "Total Soul Rape",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "crimson glory",
-    "genres": [
-      "Progressive Metal",
-      "Power Metal"
-    ],
-    "debut_year": 1986,
-    "first_release": "Crimson Glory",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Progressive Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "crowbar",
@@ -1500,34 +1183,25 @@
   },
   {
     "name": "crypt sermon",
-    "genres": [
-      "Epic Doom Metal"
-    ],
-    "debut_year": 2015,
-    "first_release": "Out of the Garden",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "cryptic slaughter",
-    "genres": [
-      "Crossover Thrash"
-    ],
-    "debut_year": 1986,
-    "first_release": "Convicted",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Hardcore Punk"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "cryptopsy",
@@ -1547,80 +1221,58 @@
   },
   {
     "name": "cult of luna",
-    "genres": [
-      "Post-Metal"
-    ],
-    "debut_year": 2001,
-    "first_release": "Cult of Luna",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Post Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "cynic",
-    "genres": [
-      "Progressive Metal",
-      "Technical Death Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "Focus",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Progressive Metal",
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "dark angel",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1985,
-    "first_release": "We Have Arrived",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "dark funeral",
-    "genres": [
-      "Melodic Black Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "Dark Funeral",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "dark tranquility",
-    "genres": [
-      "Melodic Death Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "Skydancer",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "darkthrone",
@@ -1639,35 +1291,25 @@
   },
   {
     "name": "dawn",
-    "genres": [
-      "Melodic Black Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "Nær Sólen Gar Niþer For Evogher",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "deafheaven",
-    "genres": [
-      "Blackgaze",
-      "Post-Black Metal"
-    ],
-    "debut_year": 2011,
-    "first_release": "Roads to Judah",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Post Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "death",
@@ -1701,6 +1343,17 @@
     "status": "Active"
   },
   {
+    "name": "death injection",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
     "name": "deathspell omega",
     "genres": [
       "Dissonant Black Metal",
@@ -1719,50 +1372,36 @@
   },
   {
     "name": "decalius",
-    "genres": [
-      "Depressive Suicidal Black Metal"
-    ],
-    "debut_year": 2020,
-    "first_release": "Dehumanizing Loneliness",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "deeds of flesh",
-    "genres": [
-      "Technical Death Metal",
-      "Brutal Death Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Trading Pieces",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "defeated sanity",
-    "genres": [
-      "Brutal Death Metal",
-      "Technical Death Metal"
-    ],
-    "debut_year": 2004,
-    "first_release": "Prelude to the Tragedy",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "deicide",
@@ -1796,64 +1435,47 @@
   },
   {
     "name": "demolition hammer",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Tortured Existence",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "destroyer 666",
-    "genres": [
-      "Blackened Thrash Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "Unchain the Wolves",
-    "country": "Australia",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "destruction",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1985,
-    "first_release": "Infernal Overkill",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "devastation",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1987,
-    "first_release": "Violent Termination",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "devourment",
@@ -1872,52 +1494,36 @@
   },
   {
     "name": "diamond head",
-    "genres": [
-      "Heavy Metal",
-      "NWOBHM"
-    ],
-    "debut_year": 1980,
-    "first_release": "Lightning to the Nations",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "dillinger escape plan",
-    "genres": [
-      "Mathcore",
-      "Metalcore"
-    ],
-    "debut_year": 1997,
-    "first_release": "The Dillinger Escape Plan",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Metalcore",
-      "Hardcore Punk",
-      "Progressive Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "dimmu borgir",
-    "genres": [
-      "Symphonic Black Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "For All Tid",
-    "country": "Norway",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "dio",
@@ -1936,18 +1542,14 @@
   },
   {
     "name": "discordance axis",
-    "genres": [
-      "Grindcore"
-    ],
-    "debut_year": 1995,
-    "first_release": "Jouhou",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "disembowelment",
@@ -1966,18 +1568,14 @@
   },
   {
     "name": "disgorge",
-    "genres": [
-      "Brutal Death Metal"
-    ],
-    "debut_year": 1992,
-    "first_release": "Cranial Impalement",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "dismember",
@@ -1996,20 +1594,14 @@
   },
   {
     "name": "disrupt",
-    "genres": [
-      "Crust Punk",
-      "Grindcore"
-    ],
-    "debut_year": 1994,
-    "first_release": "Unrest",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Hardcore Punk",
-      "Grindcore"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "dissection",
@@ -2028,66 +1620,47 @@
   },
   {
     "name": "dodecahedron",
-    "genres": [
-      "Avant-Garde Black Metal"
-    ],
-    "debut_year": 2012,
-    "first_release": "Dodecahedron",
-    "country": "Netherlands",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Experimental"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "draconian",
-    "genres": [
-      "Gothic Doom Metal"
-    ],
-    "debut_year": 2003,
-    "first_release": "Where Lovers Mourn",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Gothic Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "dragonforce",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 2003,
-    "first_release": "Valley of the Damned",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "d.r.i.",
-    "genres": [
-      "Crossover Thrash"
-    ],
-    "debut_year": 1983,
-    "first_release": "Dirty Rotten EP",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Hardcore Punk"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "drudkh",
@@ -2122,53 +1695,36 @@
   },
   {
     "name": "dystopia",
-    "genres": [
-      "Sludge Metal",
-      "Crust Punk"
-    ],
-    "debut_year": 1994,
-    "first_release": "Human = Garbage",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal",
-      "Hardcore Punk",
-      "Grindcore"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "dødsferd",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 2003,
-    "first_release": "Desecrating the Spirit of Life",
-    "country": "Greece",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "earth",
-    "genres": [
-      "Drone Metal"
-    ],
-    "debut_year": 1991,
-    "first_release": "Earth 2",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Drone Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "edge of sanity",
@@ -2187,53 +1743,36 @@
   },
   {
     "name": "edguy",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 1997,
-    "first_release": "Kingdom of Madness",
-    "country": "Germany",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "On Hold"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "effluence",
-    "genres": [
-      "Avant-Garde Death Metal",
-      "Free Improvisation"
-    ],
-    "debut_year": 2017,
-    "first_release": "Psychocephalic Spawning",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Experimental"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "eldamar",
-    "genres": [
-      "Atmospheric Black Metal",
-      "Dungeon Synth"
-    ],
-    "debut_year": 2016,
-    "first_release": "The Force of the Ancient Land",
-    "country": "Norway",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Ambient",
-      "Dark Folk"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "electric wizard",
@@ -2253,19 +1792,14 @@
   },
   {
     "name": "elvenking",
-    "genres": [
-      "Folk Power Metal"
-    ],
-    "debut_year": 2001,
-    "first_release": "Heathenreel",
-    "country": "Italy",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Folk Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "emperor",
@@ -2284,38 +1818,25 @@
   },
   {
     "name": "ensiferum",
-    "genres": [
-      "Folk Metal",
-      "Melodic Death Metal"
-    ],
-    "debut_year": 2001,
-    "first_release": "Ensiferum",
-    "country": "Finland",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Folk Metal",
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "enslaved",
-    "genres": [
-      "Progressive Black Metal",
-      "Viking Metal"
-    ],
-    "debut_year": 1992,
-    "first_release": "Vikingligr Veldi",
-    "country": "Norway",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Progressive Metal",
-      "Folk Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "entombed",
@@ -2334,52 +1855,36 @@
   },
   {
     "name": "epica",
-    "genres": [
-      "Symphonic Metal"
-    ],
-    "debut_year": 2003,
-    "first_release": "The Phantom Agony",
-    "country": "Netherlands",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "epidemic",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1992,
-    "first_release": "Decameron",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "equilibrium",
-    "genres": [
-      "Folk Metal",
-      "Symphonic Metal"
-    ],
-    "debut_year": 2005,
-    "first_release": "Turis Fratyr",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Folk Metal",
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "esoteric",
@@ -2398,20 +1903,14 @@
   },
   {
     "name": "ethereal shroud",
-    "genres": [
-      "Atmospheric Black Metal",
-      "Funeral Doom Metal"
-    ],
-    "debut_year": 2015,
-    "first_release": "They Became the Falling Ash",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "evoken",
@@ -2431,54 +1930,36 @@
   },
   {
     "name": "exciter",
-    "genres": [
-      "Speed Metal",
-      "Heavy Metal"
-    ],
-    "debut_year": 1983,
-    "first_release": "Heavy Metal Maniac",
-    "country": "Canada",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Speed Metal",
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "exhorder",
-    "genres": [
-      "Thrash Metal",
-      "Groove Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Slaughter in the Vatican",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Groove Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "exmortus",
-    "genres": [
-      "Melodic Death Metal",
-      "Thrash Metal"
-    ],
-    "debut_year": 2008,
-    "first_release": "In Hatred's Flame",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "exodus",
@@ -2497,97 +1978,69 @@
   },
   {
     "name": "extreme noise terror",
-    "genres": [
-      "Crust Punk",
-      "Grindcore"
-    ],
-    "debut_year": 1989,
-    "first_release": "A Holocaust in Your Head",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Hardcore Punk",
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "eyehategod",
-    "genres": [
-      "Sludge Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "In the Name of Suffering",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "faith no more",
-    "genres": [
-      "Alternative Metal"
-    ],
-    "debut_year": 1985,
-    "first_release": "We Care a Lot",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Alternative Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "falconer",
-    "genres": [
-      "Folk Power Metal"
-    ],
-    "debut_year": 2001,
-    "first_release": "Falconer",
-    "country": "Sweden",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Folk Metal",
-      "Power Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "fates warning",
-    "genres": [
-      "Progressive Metal"
-    ],
-    "debut_year": 1984,
-    "first_release": "Night on Bröcken",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Progressive Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "fear factory",
-    "genres": [
-      "Industrial Metal"
-    ],
-    "debut_year": 1992,
-    "first_release": "Soul of a New Machine",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Industrial Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "finntroll",
@@ -2606,50 +2059,36 @@
   },
   {
     "name": "fleshcrawl",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1992,
-    "first_release": "Descend into the Absurd",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "fleshgod apocalypse",
-    "genres": [
-      "Symphonic Death Metal",
-      "Technical Death Metal"
-    ],
-    "debut_year": 2009,
-    "first_release": "Oracles",
-    "country": "Italy",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Symphonic Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "flotsam and jetsam",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1986,
-    "first_release": "Doomsday for the Deceiver",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "forbidden",
@@ -2668,33 +2107,25 @@
   },
   {
     "name": "forced entry",
-    "genres": [
-      "Technical Thrash Metal"
-    ],
-    "debut_year": 1989,
-    "first_release": "Uncertain Future",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "forteresse",
-    "genres": [
-      "Atmospheric Black Metal"
-    ],
-    "debut_year": 2006,
-    "first_release": "Métal noir québécois",
-    "country": "Canada",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "funebrarum",
@@ -2713,78 +2144,58 @@
   },
   {
     "name": "funeral mist",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "Devilry",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "gamma ray",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Heading for Tomorrow",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "gehenna",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "First Spell",
-    "country": "Norway",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "general surgery",
-    "genres": [
-      "Goregrind"
-    ],
-    "debut_year": 1991,
-    "first_release": "Necrology",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "godflesh",
-    "genres": [
-      "Industrial Metal"
-    ],
-    "debut_year": 1989,
-    "first_release": "Streetcleaner",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Industrial Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "gojira",
@@ -2807,18 +2218,14 @@
   },
   {
     "name": "gorgoroth",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "Pentagram",
-    "country": "Norway",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "gorguts",
@@ -2838,81 +2245,58 @@
   },
   {
     "name": "grausamkeit",
-    "genres": [
-      "Raw Black Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Black Thorns of Evil",
-    "country": "Germany",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "grave",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1991,
-    "first_release": "Into the Grave",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "grave digger",
-    "genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "debut_year": 1984,
-    "first_release": "Heavy Metal Breakdown",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "grief",
-    "genres": [
-      "Sludge Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "Come to Grief",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "grim reaper",
-    "genres": [
-      "Heavy Metal"
-    ],
-    "debut_year": 1983,
-    "first_release": "See You in Hell",
-    "country": "United Kingdom",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "gris",
@@ -2931,204 +2315,146 @@
   },
   {
     "name": "gutalax",
-    "genres": [
-      "Goregrind"
-    ],
-    "debut_year": 2011,
-    "first_release": "Shit Beast",
-    "country": "Czech Republic",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "haemorrhage",
-    "genres": [
-      "Goregrind"
-    ],
-    "debut_year": 1995,
-    "first_release": "Emetic Cult",
-    "country": "Spain",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "hammerfall",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 1997,
-    "first_release": "Glory to the Brave",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "heathen",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1987,
-    "first_release": "Breaking the Silence",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "heavens gate",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 1991,
-    "first_release": "In Control",
-    "country": "Germany",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "heavy load",
-    "genres": [
-      "Heavy Metal"
-    ],
-    "debut_year": 1978,
-    "first_release": "Full Speed at High Level",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "hellhammer",
-    "genres": [
-      "Blackened Thrash Metal"
-    ],
-    "debut_year": 1983,
-    "first_release": "Apocalyptic Raids",
-    "country": "Switzerland",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Thrash Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "helloween",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 1985,
-    "first_release": "Walls of Jericho",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "high on fire",
-    "genres": [
-      "Stoner Metal",
-      "Sludge Metal"
-    ],
-    "debut_year": 2000,
-    "first_release": "The Art of Self Defense",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "holy moses",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1986,
-    "first_release": "Queen of Siam",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "hoplites",
-    "genres": [
-      "Avant-Garde Black Metal"
-    ],
-    "debut_year": 2021,
-    "first_release": "Ἀντιτίμωρος",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Experimental"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "horna",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "Hiidentorni",
-    "country": "Finland",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "iced earth",
-    "genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Iced Earth",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "immolation",
@@ -3162,50 +2488,36 @@
   },
   {
     "name": "impaled nazarene",
-    "genres": [
-      "Black Metal",
-      "Grindcore"
-    ],
-    "debut_year": 1992,
-    "first_release": "Tol Cormpt Norz Norz Norz...",
-    "country": "Finland",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "imprecation",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1992,
-    "first_release": "Theurgia Goetia Summa",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "in flames",
-    "genres": [
-      "Melodic Death Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "Lunar Strain",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "incantation",
@@ -3224,109 +2536,80 @@
   },
   {
     "name": "indian",
-    "genres": [
-      "Sludge Metal"
-    ],
-    "debut_year": 2008,
-    "first_release": "The Sycophant",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "infernal majesty",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1987,
-    "first_release": "None Shall Defy",
-    "country": "Canada",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "iniquity",
-    "genres": [
-      "Technical Death Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Serenadium",
-    "country": "Denmark",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "inquisition",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "Into the Infernal Regions of the Ancient Cult",
-    "country": "Colombia",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "insect warfare",
-    "genres": [
-      "Grindcore"
-    ],
-    "debut_year": 2007,
-    "first_release": "World Extermination",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "internal bleeding",
-    "genres": [
-      "Brutal Death Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Voracious Contempt",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "internal rot",
-    "genres": [
-      "Grindcore"
-    ],
-    "debut_year": 2015,
-    "first_release": "Mental Hygiene",
-    "country": "Australia",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "intestine baalism",
@@ -3345,20 +2628,25 @@
   },
   {
     "name": "intronaut",
-    "genres": [
-      "Progressive Metal",
-      "Post-Metal"
-    ],
-    "debut_year": 2006,
-    "first_release": "Void",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Progressive Metal",
-      "Post Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "invernoch",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "iron maiden",
@@ -3377,19 +2665,14 @@
   },
   {
     "name": "iron monkey",
-    "genres": [
-      "Sludge Metal"
-    ],
-    "debut_year": 1997,
-    "first_release": "Iron Monkey",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Sludge Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "isis",
@@ -3408,33 +2691,25 @@
   },
   {
     "name": "jag panzer",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 1984,
-    "first_release": "Ample Destruction",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "judas iscariot",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "The Cold Earth Slept Below",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "judas priest",
@@ -3453,19 +2728,14 @@
   },
   {
     "name": "jute gyte",
-    "genres": [
-      "Avant-Garde Black Metal"
-    ],
-    "debut_year": 2012,
-    "first_release": "Discontinuities",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Experimental"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "kaatayra",
@@ -3486,54 +2756,36 @@
   },
   {
     "name": "kamelot",
-    "genres": [
-      "Power Metal",
-      "Progressive Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Eternity",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal",
-      "Progressive Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "kampfar",
-    "genres": [
-      "Pagan Black Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Mellom skogkledde åser",
-    "country": "Norway",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Folk Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "kardashev",
-    "genres": [
-      "Progressive Death Metal",
-      "Deathgaze"
-    ],
-    "debut_year": 2015,
-    "first_release": "Peripety",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Progressive Metal",
-      "Post Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "katatonia",
@@ -3552,66 +2804,47 @@
   },
   {
     "name": "keelhaul",
-    "genres": [
-      "Mathcore",
-      "Post-Hardcore"
-    ],
-    "debut_year": 1997,
-    "first_release": "Heater",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Metalcore",
-      "Hardcore Punk",
-      "Progressive Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "killswitch engage",
-    "genres": [
-      "Metalcore"
-    ],
-    "debut_year": 2000,
-    "first_release": "Killswitch Engage",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Metalcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "king diamond",
-    "genres": [
-      "Heavy Metal"
-    ],
-    "debut_year": 1986,
-    "first_release": "Fatal Portrait",
-    "country": "Denmark",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "korn",
-    "genres": [
-      "Nu Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "Korn",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Alternative Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "korpiklaani",
@@ -3645,99 +2878,69 @@
   },
   {
     "name": "krisiun",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Black Force Domain",
-    "country": "Brazil",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "kvelertak",
-    "genres": [
-      "Black 'n' Roll",
-      "Hardcore Punk"
-    ],
-    "debut_year": 2010,
-    "first_release": "Kvelertak",
-    "country": "Norway",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Heavy Metal",
-      "Hardcore Punk"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "kvist",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "For kunsten maa vi evig vike",
-    "country": "Norway",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "lamb of god",
-    "genres": [
-      "Groove Metal",
-      "Metalcore"
-    ],
-    "debut_year": 2000,
-    "first_release": "New American Gospel",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Groove Metal",
-      "Metalcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "last days of humanity",
-    "genres": [
-      "Goregrind"
-    ],
-    "debut_year": 1992,
-    "first_release": "The Sound of Rancid Juices Sloshing Around Your Coffin",
-    "country": "Netherlands",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "legion of the damned",
-    "genres": [
-      "Deathrash"
-    ],
-    "debut_year": 2006,
-    "first_release": "Malevolent Rapture",
-    "country": "Netherlands",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "leviathan",
@@ -3756,142 +2959,102 @@
   },
   {
     "name": "lich king",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 2007,
-    "first_release": "Necromantic Maelstrom",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "lifelover",
-    "genres": [
-      "Depressive Black Metal"
-    ],
-    "debut_year": 2006,
-    "first_release": "Pulver",
-    "country": "Sweden",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "lock up",
-    "genres": [
-      "Grindcore"
-    ],
-    "debut_year": 1999,
-    "first_release": "Pleasures Pave Sewers",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "lord belial",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Kiss the Goat",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "loss",
-    "genres": [
-      "Funeral Doom Metal"
-    ],
-    "debut_year": 2007,
-    "first_release": "Despond",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "loudblast",
-    "genres": [
-      "Death Metal",
-      "Thrash Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "Disincarnate",
-    "country": "France",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "loudness",
-    "genres": [
-      "Heavy Metal"
-    ],
-    "debut_year": 1981,
-    "first_release": "The Birthday Eve",
-    "country": "Japan",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "lunar aurora",
-    "genres": [
-      "Atmospheric Black Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Weltengänger",
-    "country": "Germany",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "lustre",
-    "genres": [
-      "Atmospheric Black Metal",
-      "Ambient"
-    ],
-    "debut_year": 2008,
-    "first_release": "Serenity",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Ambient"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "machine head",
@@ -3925,140 +3088,102 @@
   },
   {
     "name": "malevolent creation",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1991,
-    "first_release": "The Ten Commandments",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "malice",
-    "genres": [
-      "Heavy Metal"
-    ],
-    "debut_year": 1982,
-    "first_release": "In the Beginning...",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "manilla road",
-    "genres": [
-      "Epic Heavy Metal"
-    ],
-    "debut_year": 1980,
-    "first_release": "Invasion",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "manowar",
-    "genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "debut_year": 1982,
-    "first_release": "Battle Hymns",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "marduk",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1992,
-    "first_release": "Dark Endless",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "mare",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 2004,
-    "first_release": "Spheres Like Death",
-    "country": "Norway",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "massacre",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1991,
-    "first_release": "From Beyond",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "masterplan",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 2003,
-    "first_release": "Masterplan",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "masters hammer",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Ritual",
-    "country": "Czech Republic",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "mastodon",
@@ -4139,37 +3264,25 @@
   },
   {
     "name": "meshuggah",
-    "genres": [
-      "Technical Thrash Metal",
-      "Djent"
-    ],
-    "debut_year": 1991,
-    "first_release": "Contradictions Collapse",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Progressive Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "metal church",
-    "genres": [
-      "Heavy Metal",
-      "Thrash Metal"
-    ],
-    "debut_year": 1984,
-    "first_release": "Metal Church",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal",
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "metallica",
@@ -4177,7 +3290,7 @@
       "Thrash Metal"
     ],
     "debut_year": 1983,
-    "first_release": "Kill 'Em All",
+    "first_release": "Kill ’Em All",
     "country": "United States",
     "active": true,
     "aliases": [],
@@ -4188,109 +3301,91 @@
   },
   {
     "name": "metalucifer",
-    "genres": [
-      "Heavy Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Heavy Metal Drill",
-    "country": "Japan",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "meurglys",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "mgła",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 2006,
-    "first_release": "Presence",
-    "country": "Poland",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "ministry",
-    "genres": [
-      "Industrial Metal"
-    ],
-    "debut_year": 1988,
-    "first_release": "The Land of Rape and Honey",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Industrial Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "minotaur",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1987,
-    "first_release": "Power of Darkness",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "mithras",
-    "genres": [
-      "Technical Death Metal"
-    ],
-    "debut_year": 2001,
-    "first_release": "Forever Advancing... Legions",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "monolord",
-    "genres": [
-      "Doom Metal",
-      "Stoner Metal"
-    ],
-    "debut_year": 2014,
-    "first_release": "Empress Rising",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "moonblood",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Blut & Krieg",
-    "country": "Germany",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "moonsorrow",
@@ -4309,20 +3404,14 @@
   },
   {
     "name": "moonspell",
-    "genres": [
-      "Gothic Metal",
-      "Black Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Wolfheart",
-    "country": "Portugal",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Gothic Metal",
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "morbid angel",
@@ -4341,129 +3430,91 @@
   },
   {
     "name": "morbid saint",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Spectrum of Death",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "mortem",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1989,
-    "first_release": "Demon Tales",
-    "country": "Peru",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "mortician",
-    "genres": [
-      "Death Metal",
-      "Grindcore"
-    ],
-    "debut_year": 1996,
-    "first_release": "Hacked Up for Barbecue",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "mortiis",
-    "genres": [
-      "Dungeon Synth"
-    ],
-    "debut_year": 1994,
-    "first_release": "Født til å herske",
-    "country": "Norway",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Ambient",
-      "Dark Folk"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "motorhead",
-    "genres": [
-      "Heavy Metal",
-      "Speed Metal"
-    ],
-    "debut_year": 1977,
-    "first_release": "Motörhead",
-    "country": "United Kingdom",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal",
-      "Speed Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "mournful congregation",
-    "genres": [
-      "Funeral Doom Metal"
-    ],
-    "debut_year": 2002,
-    "first_release": "Tears from a Grieving Heart",
-    "country": "Australia",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "municipal waste",
-    "genres": [
-      "Crossover Thrash"
-    ],
-    "debut_year": 2003,
-    "first_release": "Waste 'Em All",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Hardcore Punk"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "mutiilation",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Vampires of Black Imperial Blood",
-    "country": "France",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "my dying bride",
@@ -4483,8 +3534,7 @@
   {
     "name": "nails",
     "genres": [
-      "Grindcore",
-      "Powerviolence"
+      "Grindcore"
     ],
     "debut_year": 2009,
     "first_release": "Obscene Humanity",
@@ -4492,76 +3542,53 @@
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Grindcore",
-      "Hardcore Punk"
+      "Grindcore"
     ],
     "status": "Active"
   },
   {
     "name": "napalm death",
-    "genres": [
-      "Grindcore",
-      "Death Metal"
-    ],
-    "debut_year": 1987,
-    "first_release": "Scum",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore",
-      "Extreme Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "nargaroth",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "Herbstleyd",
-    "country": "Germany",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Extreme Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "nasty savage",
-    "genres": [
-      "Thrash Metal",
-      "Heavy Metal"
-    ],
-    "debut_year": 1985,
-    "first_release": "Nasty Savage",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "nasum",
-    "genres": [
-      "Grindcore"
-    ],
-    "debut_year": 1998,
-    "first_release": "Inhale/Exhale",
-    "country": "Sweden",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore",
-      "Extreme Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "ne obliviscaris",
@@ -4588,81 +3615,60 @@
     "debut_year": 1999,
     "first_release": "Onset of Putrefaction",
     "country": "Germany",
-    "active": false,
+    "active": true,
     "aliases": [],
     "parent_genres": [
       "Death Metal"
     ],
-    "status": "Disbanded"
+    "status": "Active"
   },
   {
     "name": "negura bunget",
-    "genres": [
-      "Atmospheric Black Metal",
-      "Folk Black Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Zîrnindu-să",
-    "country": "Romania",
-    "active": false,
-    "aliases": [
-      "Wiccan Rede"
-    ],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Disbanded"
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "neurosis",
     "genres": [
-      "Post Metal",
-      "Sludge Metal"
+      "Post Metal"
     ],
     "debut_year": 1987,
     "first_release": "Pain of Mind",
     "country": "United States",
-    "active": false,
+    "active": true,
     "aliases": [],
     "parent_genres": [
-      "Post Metal",
-      "Sludge Metal"
+      "Post Metal"
     ],
-    "status": "Disbanded"
+    "status": "Active"
   },
   {
     "name": "nifelheim",
-    "genres": [
-      "Black Metal",
-      "Thrash Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Nifelheim",
-    "country": "Sweden",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "nightwish",
-    "genres": [
-      "Symphonic Metal",
-      "Power Metal"
-    ],
-    "debut_year": 1997,
-    "first_release": "Angels Fall First",
-    "country": "Finland",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "nile",
@@ -4681,18 +3687,14 @@
   },
   {
     "name": "nocturnal depression",
-    "genres": [
-      "Depressive Suicidal Black Metal"
-    ],
-    "debut_year": 2006,
-    "first_release": "Nostalgia - Fragments of a Broken Past",
-    "country": "France",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "nokturnal mortum",
@@ -4704,11 +3706,7 @@
     "first_release": "Lunar Poetry",
     "country": "Ukraine",
     "active": true,
-    "aliases": [
-      "Suppuration",
-      "Crystaline Darkness",
-      "Nocturnal Mortum"
-    ],
+    "aliases": [],
     "parent_genres": [
       "Black Metal"
     ],
@@ -4716,53 +3714,36 @@
   },
   {
     "name": "none",
-    "genres": [
-      "Depressive Suicidal Black Metal",
-      "Atmospheric Black Metal"
-    ],
-    "debut_year": 2017,
-    "first_release": "None",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "noothgrush",
-    "genres": [
-      "Sludge Metal",
-      "Doom Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Embraced by the Anti-Self",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Sludge Metal",
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "nuclear assault",
-    "genres": [
-      "Thrash Metal",
-      "Crossover Thrash"
-    ],
-    "debut_year": 1986,
-    "first_release": "Game Over",
-    "country": "United States",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Heavy Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "obituary",
@@ -4773,10 +3754,7 @@
     "first_release": "Slowly We Rot",
     "country": "United States",
     "active": true,
-    "aliases": [
-      "Executioner",
-      "Xecutioner"
-    ],
+    "aliases": [],
     "parent_genres": [
       "Death Metal"
     ],
@@ -4784,19 +3762,14 @@
   },
   {
     "name": "odium",
-    "genres": [
-      "Symphonic Black Metal",
-      "Black Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "The Sad Realm of the Stars",
-    "country": "Norway",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "odz manouk",
@@ -4815,52 +3788,36 @@
   },
   {
     "name": "omen",
-    "genres": [
-      "US Power Metal",
-      "Heavy Metal"
-    ],
-    "debut_year": 1984,
-    "first_release": "Battle Cry",
-    "country": "United States",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal",
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "one tail, one head",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 2018,
-    "first_release": "Worlds Open, Worlds Collide",
-    "country": "Norway",
-    "active": false,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Extreme Metal"
-    ],
-    "status": "Disbanded"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "onslaught",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1985,
-    "first_release": "Power from Hell",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
     "name": "opeth",
@@ -4882,8 +3839,6 @@
   {
     "name": "oranssi pazuzu",
     "genres": [
-      "Avant-Garde Black Metal",
-      "Psychedelic Black Metal",
       "Black Metal"
     ],
     "debut_year": 2009,
@@ -4892,142 +3847,107 @@
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Black Metal",
-      "Experimental"
+      "Black Metal"
     ],
     "status": "Active"
   },
   {
     "name": "origin",
-    "genres": [
-      "Technical Death Metal",
-      "Brutal Death Metal"
-    ],
-    "debut_year": 2000,
-    "first_release": "Origin",
-    "country": "United States",
-    "active": true,
-    "aliases": [
-      "Necrotomy"
-    ],
-    "parent_genres": [
-      "Death Metal",
-      "Extreme Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Orphaned Land",
-    "genres": [
-      "Folk Metal",
-      "Progressive Metal",
-      "Death Doom Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "Sahara",
-    "country": "Israel",
-    "active": true,
-    "aliases": [
-      "Resurrection"
-    ],
-    "parent_genres": [
-      "Progressive Metal",
-      "Heavy Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Overkill",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1980,
-    "first_release": "Feel the Fire",
-    "country": "United States",
-    "active": true,
-    "aliases": [
-      "Virgin Killer"
-    ],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Pagan Altar",
-    "genres": [
-      "Traditional Doom Metal",
-      "Heavy Metal"
-    ],
-    "debut_year": 1978,
-    "first_release": "Pagan Altar",
-    "country": "United Kingdom",
-    "active": true,
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Panopticon",
+    "name": "orphaned land",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "overkill",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "pagan altar",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "panopticon",
     "genres": [
       "Atmospheric Black Metal",
       "Folk Black Metal"
     ],
-    "debut_year": 2007,
+    "debut_year": 2008,
     "first_release": "On the Subject of Mortality",
     "country": "United States",
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Black Metal",
-      "Folk Metal"
+      "Black Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Pantera",
+    "name": "pantera",
     "genres": [
       "Groove Metal"
     ],
-    "debut_year": 1981,
+    "debut_year": 1983,
     "first_release": "Metal Magic",
     "country": "United States",
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Thrash Metal"
+      "Groove Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Paradise Lost",
+    "name": "paradise lost",
     "genres": [
-      "Death Doom Metal",
-      "Gothic Metal"
+      "Death Doom Metal"
     ],
-    "debut_year": 1988,
+    "debut_year": 1990,
     "first_release": "Lost Paradise",
     "country": "United Kingdom",
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Doom Metal",
-      "Gothic Metal",
-      "Death Metal"
+      "Doom Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Paysage d'Hiver",
+    "name": "paysage d’hiver",
     "genres": [
-      "Atmospheric Black Metal",
-      "Ambient"
+      "Atmospheric Black Metal"
     ],
-    "debut_year": 1997,
-    "first_release": "Steineiche",
+    "debut_year": 2013,
+    "first_release": "Das Tor",
     "country": "Switzerland",
     "active": true,
     "aliases": [],
@@ -5037,93 +3957,80 @@
     "status": "Active"
   },
   {
-    "name": "Pentagram",
+    "name": "pentagram",
     "genres": [
-      "Traditional Doom Metal"
+      "Traditional Doom Metal",
+      "Heavy Metal"
     ],
-    "debut_year": 1971,
+    "debut_year": 1985,
     "first_release": "Relentless",
-    "country": "United States",
-    "active": true,
-    "aliases": [
-      "Virgin Death",
-      "Macabre"
-    ],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Periphery",
-    "genres": [
-      "Progressive Metal"
-    ],
-    "debut_year": 2005,
-    "first_release": "Periphery",
     "country": "United States",
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Progressive Metal"
+      "Doom Metal",
+      "Heavy Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Peste Noire",
+    "name": "periphery",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "peste noire",
     "genres": [
       "Black Metal"
     ],
-    "debut_year": 2001,
+    "debut_year": 2006,
     "first_release": "La Sanie des siècles – Panégyrique de la dégénérescence",
     "country": "France",
     "active": true,
-    "aliases": [
-      "Kommando Peste Noire"
-    ],
+    "aliases": [],
     "parent_genres": [
       "Black Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Pestilence",
+    "name": "pestilence",
     "genres": [
-      "Death Metal",
-      "Thrash Metal"
+      "Death Metal"
     ],
-    "debut_year": 1986,
+    "debut_year": 1988,
     "first_release": "Malleus Maleficarum",
     "country": "Netherlands",
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Death Metal",
-      "Thrash Metal"
+      "Death Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Phobia",
-    "genres": [
-      "Grindcore"
-    ],
-    "debut_year": 1990,
-    "first_release": "Means of Existence",
-    "country": "United States",
-    "active": true,
+    "name": "phobia",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Pig Destroyer",
+    "name": "pig destroyer",
     "genres": [
       "Grindcore"
     ],
-    "debut_year": 1997,
+    "debut_year": 1998,
     "first_release": "Explosions in Ward 6",
     "country": "United States",
     "active": true,
@@ -5134,12 +4041,12 @@
     "status": "Active"
   },
   {
-    "name": "Possessed",
+    "name": "possessed",
     "genres": [
       "Thrash Metal",
       "Death Metal"
     ],
-    "debut_year": 1983,
+    "debut_year": 1985,
     "first_release": "Seven Churches",
     "country": "United States",
     "active": true,
@@ -5151,300 +4058,216 @@
     "status": "Active"
   },
   {
-    "name": "Power Trip",
-    "genres": [
-      "Crossover Thrash"
-    ],
-    "debut_year": 2008,
-    "first_release": "Manifest Decimation",
-    "country": "United States",
-    "active": true,
+    "name": "power trip",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Hardcore Punk"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Primal Fear",
-    "genres": [
-      "Power Metal",
-      "Speed Metal"
-    ],
-    "debut_year": 1997,
-    "first_release": "Primal Fear",
-    "country": "Germany",
-    "active": true,
+    "name": "primal fear",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Power Metal",
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Primitive Man",
-    "genres": [
-      "Sludge Metal",
-      "Death Doom Metal"
-    ],
-    "debut_year": 2012,
-    "first_release": "Scorn",
-    "country": "United States",
-    "active": true,
+    "name": "primitive man",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "profanatica",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "psychonaut 4",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "pungent stench",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "queensryche",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "rammstein",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "ravage",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "razor",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "red harvest",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "regurgitate",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "repulsion",
+    "genres": [
+      "Grindcore",
       "Death Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Profanatica",
-    "genres": [
-      "Black Metal",
-      "Death Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Profanatitas de Domonatia",
-    "country": "United States",
-    "active": true,
-    "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Death Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Psychonaut 4",
-    "genres": [
-      "DSBM",
-      "Post-Black Metal"
-    ],
-    "debut_year": 2010,
-    "first_release": "Have a Nice Trip",
-    "country": "Georgia",
-    "active": true,
-    "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Pungent Stench",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1988,
-    "first_release": "For God Your Soul... For Me Your Flesh",
-    "country": "Austria",
-    "active": true,
-    "aliases": [
-      "Schirenc Plays Pungent Stench"
-    ],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Queensrÿche",
-    "genres": [
-      "Progressive Metal",
-      "Power Metal"
-    ],
-    "debut_year": 1982,
-    "first_release": "The Warning",
-    "country": "United States",
-    "active": true,
-    "aliases": [
-      "The Mob"
-    ],
-    "parent_genres": [
-      "Progressive Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Rammstein",
-    "genres": [
-      "Industrial Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "Herzeleid",
-    "country": "Germany",
-    "active": true,
-    "aliases": [],
-    "parent_genres": [
-      "Industrial Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Ravage",
-    "genres": [
-      "Speed Metal",
-      "Power Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Spectral Rider",
-    "country": "United States",
-    "active": true,
-    "aliases": [],
-    "parent_genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Razor",
-    "genres": [
-      "Speed Metal",
-      "Thrash Metal"
-    ],
-    "debut_year": 1983,
-    "first_release": "Executioner's Song",
-    "country": "Canada",
-    "active": true,
-    "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Red Harvest",
-    "genres": [
-      "Industrial Metal",
-      "Thrash Metal"
     ],
     "debut_year": 1989,
-    "first_release": "Nomindsland",
-    "country": "Norway",
-    "active": true,
-    "aliases": [],
-    "parent_genres": [
-      "Industrial Metal",
-      "Thrash Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Regurgitate",
-    "genres": [
-      "Goregrind",
-      "Grindcore"
-    ],
-    "debut_year": 1990,
-    "first_release": "Effortless Regurgitation of Bright Red Blood",
-    "country": "Sweden",
-    "active": false,
-    "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Inactive"
-  },
-  {
-    "name": "Repulsion",
-    "genres": [
-      "Deathgrind"
-    ],
-    "debut_year": 1986,
     "first_release": "Horrified",
     "country": "United States",
-    "active": true,
-    "aliases": [
-      "Tempter",
-      "Genocide"
-    ],
+    "active": false,
+    "aliases": [],
     "parent_genres": [
       "Death Metal",
       "Grindcore"
     ],
-    "status": "Active"
+    "status": "Disbanded"
   },
   {
-    "name": "Revenge",
-    "genres": [
-      "War Metal"
-    ],
-    "debut_year": 2000,
-    "first_release": "Triumph.Genocide.Antichrist",
-    "country": "Canada",
-    "active": true,
+    "name": "revenge",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Reverend Bizarre",
-    "genres": [
-      "Doom Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "In the Rectory of the Bizarre Reverend",
-    "country": "Finland",
-    "active": false,
+    "name": "reverend bizarre",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Inactive"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Rhapsody of Fire",
-    "genres": [
-      "Symphonic Power Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Legendary Tales",
-    "country": "Italy",
-    "active": true,
-    "aliases": [
-      "Thundercross",
-      "Rhapsody"
-    ],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
+    "name": "rhapsody of fire",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Riot V",
-    "genres": [
-      "Heavy Metal",
-      "Speed Metal",
-      "Power Metal"
-    ],
-    "debut_year": 1975,
-    "first_release": "Rock City",
-    "country": "United States",
-    "active": true,
-    "aliases": [
-      "Riot V"
-    ],
-    "parent_genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
+    "name": "riot",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Ripping Corpse",
+    "name": "rippikoulu",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "ripping corpse",
     "genres": [
       "Death Metal",
       "Thrash Metal"
     ],
-    "debut_year": 1987,
+    "debut_year": 1991,
     "first_release": "Dreaming with the Dead",
     "country": "United States",
     "active": false,
@@ -5456,102 +4279,71 @@
     "status": "Disbanded"
   },
   {
-    "name": "Rivers of Nihil",
-    "genres": [
-      "Technical Death Metal",
-      "Progressive Death Metal"
-    ],
-    "debut_year": 2009,
-    "first_release": "The Conscious Seed of Light",
-    "country": "United States",
-    "active": true,
+    "name": "rivers of nihil",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Rotting Christ",
+    "name": "rotting christ",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "ruins of beverast",
     "genres": [
-      "Melodic Black Metal",
-      "Gothic Metal"
-    ],
-    "debut_year": 1987,
-    "first_release": "Thy Mighty Contract",
-    "country": "Greece",
-    "active": true,
-    "aliases": [
-      "Black Church"
-    ],
-    "parent_genres": [
       "Black Metal",
-      "Doom Metal"
+      "Atmospheric Black Metal"
     ],
-    "status": "Active"
-  },
-  {
-    "name": "Ruins of Beverast",
-    "genres": [
-      "Atmospheric Black Metal",
-      "Doom Metal"
-    ],
-    "debut_year": 2003,
+    "debut_year": 2004,
     "first_release": "Unlock the Shrine",
     "country": "Germany",
     "active": true,
-    "aliases": [
-      "The Ruins of Beverast"
-    ],
+    "aliases": [],
     "parent_genres": [
-      "Black Metal",
-      "Doom Metal"
+      "Black Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Running Wild",
-    "genres": [
-      "Heavy Metal",
-      "Power Metal",
-      "Speed Metal"
-    ],
-    "debut_year": 1979,
-    "first_release": "Gates to Purgatory",
-    "country": "Germany",
-    "active": true,
-    "aliases": [
-      "Granite Heart"
-    ],
-    "parent_genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
+    "name": "running wild",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Sabaton",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 1999,
-    "first_release": "Primo Victoria",
-    "country": "Sweden",
-    "active": true,
-    "aliases": [
-      "Aeon"
-    ],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
+    "name": "sabaton",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Sacramentum",
+    "name": "sacramentum",
     "genres": [
       "Melodic Black Metal"
     ],
-    "debut_year": 1992,
+    "debut_year": 1994,
     "first_release": "Finis Malorum",
     "country": "Sweden",
     "active": true,
@@ -5562,43 +4354,34 @@
     "status": "Active"
   },
   {
-    "name": "Sacred Reich",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1985,
-    "first_release": "Ignorance",
-    "country": "United States",
-    "active": true,
+    "name": "sacred reich",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Sadus",
-    "genres": [
-      "Technical Thrash Metal",
-      "Death Metal"
-    ],
-    "debut_year": 1985,
-    "first_release": "Illusions",
-    "country": "United States",
-    "active": true,
+    "name": "sadus",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Saint Vitus",
+    "name": "saint vitus",
     "genres": [
-      "Traditional Doom Metal"
+      "Traditional Doom Metal",
+      "Doom Metal"
     ],
-    "debut_year": 1981,
+    "debut_year": 1984,
     "first_release": "Saint Vitus",
     "country": "United States",
     "active": false,
@@ -5606,34 +4389,26 @@
     "parent_genres": [
       "Doom Metal"
     ],
-    "status": "Inactive"
+    "status": "Disbanded"
   },
   {
-    "name": "Saor",
-    "genres": [
-      "Atmospheric Black Metal",
-      "Folk Metal"
-    ],
-    "debut_year": 2013,
-    "first_release": "Roots",
-    "country": "United Kingdom",
-    "active": true,
-    "aliases": [
-      "Àrsaidh"
-    ],
-    "parent_genres": [
-      "Black Metal",
-      "Black Metal"
-    ],
-    "status": "Active"
+    "name": "saor",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Sarcófago",
+    "name": "sarcofago",
     "genres": [
       "Black Metal",
       "Death Metal"
     ],
-    "debut_year": 1985,
+    "debut_year": 1987,
     "first_release": "I.N.R.I.",
     "country": "Brazil",
     "active": false,
@@ -5645,46 +4420,33 @@
     "status": "Disbanded"
   },
   {
-    "name": "Sargeist",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1999,
-    "first_release": "Satanic Black Devotion",
-    "country": "Finland",
-    "active": true,
+    "name": "sargeist",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Satan",
-    "genres": [
-      "Heavy Metal",
-      "Speed Metal"
-    ],
-    "debut_year": 1979,
-    "first_release": "Court in the Act",
-    "country": "United Kingdom",
-    "active": true,
-    "aliases": [
-      "Blind Fury",
-      "Pariah"
-    ],
-    "parent_genres": [
-      "Heavy Metal",
-      "Speed Metal"
-    ],
-    "status": "Active"
+    "name": "satan",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Satyricon",
+    "name": "satyricon",
     "genres": [
       "Black Metal"
     ],
-    "debut_year": 1991,
+    "debut_year": 1993,
     "first_release": "Dark Medieval Times",
     "country": "Norway",
     "active": true,
@@ -5695,56 +4457,40 @@
     "status": "Active"
   },
   {
-    "name": "Savage Grace",
-    "genres": [
-      "Speed Metal",
-      "Power Metal"
-    ],
-    "debut_year": 1981,
-    "first_release": "Master of Disguise",
-    "country": "United States",
-    "active": true,
+    "name": "savage grace",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Saxon",
-    "genres": [
-      "Heavy Metal"
-    ],
-    "debut_year": 1978,
-    "first_release": "Saxon",
-    "country": "United Kingdom",
-    "active": true,
-    "aliases": [
-      "Son of a Bitch"
-    ],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Scald",
-    "genres": [
-      "Epic Doom Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "Will of the Gods Is Great Power",
-    "country": "Russia",
-    "active": true,
+    "name": "saxon",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Sepultura",
+    "name": "scald",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "sepultura",
     "genres": [
       "Thrash Metal",
       "Groove Metal"
@@ -5755,92 +4501,94 @@
     "active": false,
     "aliases": [],
     "parent_genres": [
-      "Groove Metal"
+      "Groove Metal",
+      "Thrash Metal"
     ],
-    "status": "Inactive"
+    "status": "Disbanded"
   },
   {
-    "name": "Severoth",
-    "genres": [
-      "Atmospheric Black Metal"
-    ],
-    "debut_year": 2012,
-    "first_release": "Winterfall",
-    "country": "Ukraine",
-    "active": true,
+    "name": "severoth",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Sigh (サイ)",
-    "genres": [
-      "Avant-Garde Black Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Scorn Defeat",
-    "country": "Japan",
-    "active": true,
+    "name": "siege",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Silencer",
-    "genres": [
-      "DSBM"
-    ],
-    "debut_year": 1995,
-    "first_release": "Death - Pierce Me",
-    "country": "Sweden",
-    "active": false,
+    "name": "sigh",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Inactive"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Sinister",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1988,
-    "first_release": "Cross the Styx",
-    "country": "Netherlands",
-    "active": true,
+    "name": "silencer",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Extreme Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Skepticism",
-    "genres": [
-      "Funeral Doom Metal"
-    ],
-    "debut_year": 1991,
-    "first_release": "Stormcrowfleet",
-    "country": "Finland",
-    "active": true,
+    "name": "sinister",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Slayer",
+    "name": "skepticism",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "skinny puppy",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "slayer",
     "genres": [
       "Thrash Metal"
     ],
-    "debut_year": 1981,
+    "debut_year": 1983,
     "first_release": "Show No Mercy",
     "country": "United States",
     "active": true,
@@ -5851,162 +4599,130 @@
     "status": "Active"
   },
   {
-    "name": "Sleep",
+    "name": "sleep",
     "genres": [
       "Stoner Metal",
       "Doom Metal"
     ],
-    "debut_year": 1990,
+    "debut_year": 1991,
     "first_release": "Volume One",
     "country": "United States",
     "active": true,
-    "aliases": [
-      "Asbestosdeath"
-    ],
+    "aliases": [],
     "parent_genres": [
       "Doom Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Slipknot",
-    "genres": [
-      "Alternative Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Slipknot",
-    "country": "United States",
-    "active": true,
-    "aliases": [
-      "The Pale Ones"
-    ],
-    "parent_genres": [
-      "Alternative Metal"
-    ],
-    "status": "Active"
+    "name": "slipknot",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Sodom",
+    "name": "sodom",
     "genres": [
-      "Thrash Metal",
-      "Black Metal"
+      "Thrash Metal"
     ],
-    "debut_year": 1982,
+    "debut_year": 1985,
     "first_release": "In the Sign of Evil",
     "country": "Germany",
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Thrash Metal",
-      "Black Metal"
+      "Thrash Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Solefald",
-    "genres": [
-      "Post Black Metal",
-      "Avant-Garde Black Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "The Linear Scaffold",
-    "country": "Norway",
-    "active": false,
+    "name": "solefald",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Inactive"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Solitude Aeturnus",
-    "genres": [
-      "Epic Doom Metal"
-    ],
-    "debut_year": 1987,
-    "first_release": "Into the Depths of Sorrow",
-    "country": "United States",
-    "active": false,
-    "aliases": [
-      "Solitude"
-    ],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Disbanded"
-  },
-  {
-    "name": "Sonata Arctica",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 1999,
-    "first_release": "Ecliptica",
-    "country": "Finland",
-    "active": true,
-    "aliases": [
-      "Tricky Beans",
-      "Tricky Means"
-    ],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Spectral Wound",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 2015,
-    "first_release": "Terra Nullius",
-    "country": "Canada",
-    "active": true,
+    "name": "solitude aeturnus",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Squash Bowels",
-    "genres": [
-      "Goregrind"
-    ],
-    "debut_year": 1994,
-    "first_release": "Tnyribal",
-    "country": "Poland",
-    "active": true,
+    "name": "sonata arctica",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Stormtroopers of Death (S.O.D.)",
-    "genres": [
-      "Crossover Thrash"
-    ],
-    "debut_year": 1985,
-    "first_release": "Speak English or Die",
-    "country": "United States",
-    "active": false,
-    "aliases": [
-      "S.O.D."
-    ],
-    "parent_genres": [
-      "Thrash Metal",
-      "Hardcore Punk"
-    ],
-    "status": "Inactive"
+    "name": "sore throat",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Strapping Young Lad",
+    "name": "spectral wound",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "squash bowels",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "stormtroopers of death",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "strapping young lad",
     "genres": [
       "Industrial Metal"
     ],
-    "debut_year": 1994,
+    "debut_year": 1995,
     "first_release": "Heavy as a Really Heavy Thing",
     "country": "Canada",
     "active": false,
@@ -6014,27 +4730,21 @@
     "parent_genres": [
       "Industrial Metal"
     ],
-    "status": "Inactive"
+    "status": "Disbanded"
   },
   {
-    "name": "Stratovarius",
-    "genres": [
-      "Power Metal"
-    ],
-    "debut_year": 1985,
-    "first_release": "Fright Night",
-    "country": "Finland",
-    "active": true,
-    "aliases": [
-      "Black Water"
-    ],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
+    "name": "stratovarius",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Suffocation",
+    "name": "suffocation",
     "genres": [
       "Brutal Death Metal",
       "Technical Death Metal"
@@ -6050,28 +4760,22 @@
     "status": "Active"
   },
   {
-    "name": "Suicidal Tendencies",
-    "genres": [
-      "Crossover Thrash",
-      "Hardcore Punk"
-    ],
-    "debut_year": 1981,
-    "first_release": "Suicidal Tendencies",
-    "country": "United States",
-    "active": true,
+    "name": "suicidal tendencies",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Hardcore Punk",
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Summoning",
+    "name": "summoning",
     "genres": [
       "Atmospheric Black Metal"
     ],
-    "debut_year": 1993,
+    "debut_year": 1995,
     "first_release": "Lugburz",
     "country": "Austria",
     "active": true,
@@ -6082,136 +4786,99 @@
     "status": "Active"
   },
   {
-    "name": "Sunn O)))",
-    "genres": [
-      "Drone Metal",
-      "Doom Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "ØØ Void",
-    "country": "United States",
-    "active": true,
-    "aliases": [
-      "Mars"
-    ],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Symphony X",
-    "genres": [
-      "Progressive Power Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "Symphony X",
-    "country": "United States",
-    "active": true,
+    "name": "sunn o)))",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Progressive Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "System of a Down",
-    "genres": [
-      "Alternative Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "System of a Down",
-    "country": "United States",
-    "active": true,
-    "aliases": [
-      "Soil"
-    ],
-    "parent_genres": [
-      "Alternative Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Taake",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1995,
-    "first_release": "Nattestid ser vigisjon",
-    "country": "Norway",
-    "active": true,
+    "name": "symphony x",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Tankard",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1983,
-    "first_release": "Zombie Attack",
-    "country": "Germany",
-    "active": true,
+    "name": "system of a down",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Teitanblood",
-    "genres": [
-      "Blackened Death Metal"
-    ],
-    "debut_year": 2003,
-    "first_release": "Seven Chalices",
-    "country": "Spain",
-    "active": true,
+    "name": "taake",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Terrorizer",
+    "name": "tankard",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "teitanblood",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "terrorizer",
     "genres": [
       "Deathgrind"
     ],
-    "debut_year": 1987,
+    "debut_year": 1989,
     "first_release": "World Downfall",
     "country": "United States",
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Grindcore",
-      "Death Metal"
+      "Grindcore"
     ],
     "status": "Active"
   },
   {
-    "name": "TesseracT",
-    "genres": [
-      "Progressive Metal",
-      "Djent"
-    ],
-    "debut_year": 2003,
-    "first_release": "One",
-    "country": "United Kingdom",
-    "active": true,
+    "name": "tesseract",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Progressive Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Testament",
+    "name": "testament",
     "genres": [
       "Thrash Metal"
     ],
@@ -6226,414 +4893,309 @@
     "status": "Active"
   },
   {
-    "name": "The Obsessed",
-    "genres": [
-      "Doom Metal"
-    ],
-    "debut_year": 1980,
-    "first_release": "The Obsessed",
-    "country": "United States",
-    "active": true,
-    "aliases": [
-      "Warhorse"
-    ],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Theater of Tragedy",
-    "genres": [
-      "Gothic Metal",
-      "Doom Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "Theater of Tragedy",
-    "country": "Norway",
-    "active": false,
+    "name": "the obsessed",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Inactive"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Thergothon",
-    "genres": [
-      "Funeral Doom Metal",
-      "Death Doom Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Stream from the Heavens",
-    "country": "Finland",
-    "active": false,
+    "name": "theater of tragedy",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Death Metal"
-    ],
-    "status": "Inactive"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Therion",
-    "genres": [
-      "Symphonic Metal",
-      "Death Metal"
-    ],
-    "debut_year": 1988,
-    "first_release": "Of Darkness...",
-    "country": "Sweden",
-    "active": true,
-    "aliases": [
-      "Blitzkrieg"
-    ],
-    "parent_genres": [
-      "Heavy Metal",
-      "Death Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Thorns",
-    "genres": [
-      "Industrial Black Metal"
-    ],
-    "debut_year": 1990,
-    "first_release": "Thorns",
-    "country": "Norway",
-    "active": true,
-    "aliases": [
-      "Stigma Diabolicum"
-    ],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Thou",
-    "genres": [
-      "Sludge Metal",
-      "Doom Metal",
-      "Drone Metal"
-    ],
-    "debut_year": 2005,
-    "first_release": "Tyrant",
-    "country": "United States",
-    "active": true,
+    "name": "thergothon",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Tokyo Blade",
-    "genres": [
-      "Heavy Metal"
-    ],
-    "debut_year": 1983,
-    "first_release": "Tokyo Blade",
-    "country": "United Kingdom",
-    "active": true,
-    "aliases": [
-      "Genghis Khan",
-      "Killer",
-      "Prowler"
-    ],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "name": "therion",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Tool",
+    "name": "thorns",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "thou",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "tokyo blade",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "tool",
     "genres": [
-      "Progressive Metal",
-      "Alternative Metal"
+      "Progressive Metal"
     ],
-    "debut_year": 1990,
+    "debut_year": 1992,
     "first_release": "Opiate",
     "country": "United States",
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Progressive Metal",
-      "Alternative Metal"
+      "Progressive Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Toxic Holocaust",
-    "genres": [
-      "Thrash Metal",
-      "Speed Metal"
-    ],
-    "debut_year": 1999,
-    "first_release": "Evil Never Dies",
-    "country": "United States",
-    "active": true,
+    "name": "toxic holocaust",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Trhä",
-    "genres": [
-      "Ambient",
-      "Avant-Garde Black Metal",
-      "Atmospheric Black Metal"
-    ],
-    "debut_year": 2020,
-    "first_release": "T​â​lve​ë​nnë",
-    "country": "United States",
-    "active": true,
+    "name": "trepaneringsritualen",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Ambient"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Trouble",
+    "name": "trha",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "trouble",
     "genres": [
-      "Traditional Doom Metal",
-      "Stoner Metal"
+      "Heavy Metal",
+      "Traditional Doom Metal"
     ],
-    "debut_year": 1978,
+    "debut_year": 1984,
     "first_release": "Psalm 9",
     "country": "United States",
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Doom Metal"
+      "Doom Metal",
+      "Heavy Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Tsjuder",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "Kill for Satan",
-    "country": "Norway",
-    "active": true,
+    "name": "tsjuder",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Type O-Negative",
+    "name": "type o negative",
     "genres": [
-      "Gothic Metal",
-      "Doom Metal"
+      "Gothic Metal"
     ],
-    "debut_year": 1990,
+    "debut_year": 1991,
     "first_release": "Slow, Deep and Hard",
     "country": "United States",
     "active": false,
     "aliases": [],
     "parent_genres": [
-      "Doom Metal"
+      "Gothic Metal"
     ],
-    "status": "Inactive"
+    "status": "Disbanded"
   },
   {
-    "name": "Týr",
-    "genres": [
-      "Folk Metal",
-      "Progressive Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "How Far to Asgaard",
-    "country": "Denmark",
-    "active": true,
+    "name": "týr",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Progressive Metal",
-      "Folk Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Ulcerate",
-    "genres": [
-      "Technical Death Metal",
-      "Avant-Garde Death Metal"
-    ],
-    "debut_year": 2002,
-    "first_release": "Of Fracture and Failure",
-    "country": "New Zealand",
-    "active": true,
-    "aliases": [
-      "Bloodline"
-    ],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "name": "ulcerate",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Ulver",
+    "name": "ulver",
     "genres": [
-      "Folk Metal",
-      "Ambient",
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Pagan Black Metal"
     ],
-    "debut_year": 1993,
+    "debut_year": 1995,
     "first_release": "Bergtatt – Et eeventyr i 5 capitler",
     "country": "Norway",
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Black Metal",
-      "Ambient",
-      "Folk Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Unleashed",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1989,
-    "first_release": "Where No Life Dwells",
-    "country": "Sweden",
-    "active": true,
-    "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Urfaust",
-    "genres": [
-      "Atmospheric Black Metal",
-      "Ambient"
-    ],
-    "debut_year": 2004,
-    "first_release": "Geist ist Teufel",
-    "country": "Netherlands",
-    "active": false,
-    "aliases": [],
-    "parent_genres": [
-      "Black Metal",
-      "Ambient"
-    ],
-    "status": "Inactive"
-  },
-  {
-    "name": "Urgehal",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1992,
-    "first_release": "Arma Christi",
-    "country": "Norway",
-    "active": true,
-    "aliases": [],
-    "parent_genres": [
       "Black Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Vader",
-    "genres": [
-      "Death Metal",
-      "Thrash Metal"
-    ],
-    "debut_year": 1983,
-    "first_release": "The Ultimate Incantation",
-    "country": "Poland",
-    "active": true,
+    "name": "unleashed",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Varathron",
-    "genres": [
-      "Black Metal"
-    ],
-    "debut_year": 1988,
-    "first_release": "His Majesty at the Swamp",
-    "country": "Greece",
-    "active": true,
+    "name": "urfaust",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Ved Buens Ende…",
-    "genres": [
-      "Avant-Garde Black Metal"
-    ],
-    "debut_year": 1994,
-    "first_release": "Written in Waters",
-    "country": "Norway",
-    "active": true,
+    "name": "urgehal",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Vektor",
+    "name": "vader",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "varathron",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "ved buens ende",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "vektor",
     "genres": [
-      "Technical Thrash Metal",
-      "Progressive Thrash Metal"
+      "Technical Black Metal"
     ],
-    "debut_year": 2004,
+    "debut_year": 2009,
     "first_release": "Black Future",
     "country": "United States",
     "active": true,
     "aliases": [],
     "parent_genres": [
-      "Thrash Metal"
+      "Black Metal"
     ],
     "status": "Active"
   },
   {
-    "name": "Venom",
-    "genres": [
-      "Speed Metal",
-      "Black Metal",
-      "Heavy Metal"
-    ],
-    "debut_year": 1979,
-    "first_release": "Welcome to Hell",
-    "country": "United Kingdom",
-    "active": false,
+    "name": "venom",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal",
-      "Black Metal"
-    ],
-    "status": "Inactive"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Viscera Infest (ヴィセラ・インフェ)",
+    "name": "viscera infest",
     "genres": [
       "Goregrind"
     ],
-    "debut_year": 1999,
+    "debut_year": 2007,
     "first_release": "Sarcoidosis",
     "country": "Japan",
     "active": true,
@@ -6644,74 +5206,67 @@
     "status": "Active"
   },
   {
-    "name": "Vinterland",
-    "genres": [
-      "Melodic Black Metal"
-    ],
-    "debut_year": 1992,
-    "first_release": "Welcome My Last Chapter",
-    "country": "Sweden",
-    "active": true,
+    "name": "vinterland",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Vio-Lence",
-    "genres": [
-      "Thrash Metal"
-    ],
-    "debut_year": 1985,
-    "first_release": "Eternal Nightmare",
-    "country": "United States",
-    "active": true,
+    "name": "vio-lence",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Virgin Steele",
-    "genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "debut_year": 1982,
-    "first_release": "Virgin Steele",
-    "country": "United States",
-    "active": true,
+    "name": "virgin steele",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal",
-      "Power Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Vlad Tepes",
-    "genres": [
-      "Raw Black Metal"
-    ],
-    "debut_year": 1993,
-    "first_release": "Rehearsal Winter '93",
-    "country": "France",
-    "active": false,
+    "name": "vlad tepes",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Inactive"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Voivod",
+    "name": "vnv nation",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "voivod",
     "genres": [
       "Progressive Metal",
       "Thrash Metal"
     ],
-    "debut_year": 1981,
+    "debut_year": 1984,
     "first_release": "War and Pain",
     "country": "Canada",
     "active": true,
@@ -6723,26 +5278,22 @@
     "status": "Active"
   },
   {
-    "name": "Vomitory",
-    "genres": [
-      "Death Metal"
-    ],
-    "debut_year": 1989,
-    "first_release": "Raped in Their Own Blood",
-    "country": "Sweden",
-    "active": true,
+    "name": "vomitory",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Vothana",
+    "name": "vothana",
     "genres": [
       "Black Metal"
     ],
-    "debut_year": 2003,
+    "debut_year": 2006,
     "first_release": "Vothana",
     "country": "United States",
     "active": true,
@@ -6753,44 +5304,33 @@
     "status": "Active"
   },
   {
-    "name": "W.A.S.P.",
-    "genres": [
-      "Heavy Metal",
-      "Glam Metal"
-    ],
-    "debut_year": 1984,
-    "first_release": "W.A.S.P.",
-    "country": "United States",
-    "active": true,
+    "name": "w.a.s.p.",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Watchtower",
-    "genres": [
-      "Technical Thrash Metal",
-      "Progressive Metal"
-    ],
-    "debut_year": 1982,
-    "first_release": "Energetic Disassembly",
-    "country": "United States",
-    "active": true,
+    "name": "watchtower",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Progressive Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Weakling",
+    "name": "weakling",
     "genres": [
       "Atmospheric Black Metal"
     ],
-    "debut_year": 1997,
+    "debut_year": 2000,
     "first_release": "Dead as Dreams",
     "country": "United States",
     "active": false,
@@ -6798,117 +5338,96 @@
     "parent_genres": [
       "Black Metal"
     ],
-    "status": "Inactive"
+    "status": "Disbanded"
   },
   {
-    "name": "Weekend Nachos",
-    "genres": [
-      "Powerviolence",
-      "Sludge Metal"
-    ],
-    "debut_year": 2004,
-    "first_release": "Punish and Destroy",
-    "country": "United States",
-    "active": true,
+    "name": "weekend nachos",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Sludge Metal",
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Whiplash",
-    "genres": [
-      "Thrash Metal",
-      "Speed Metal"
-    ],
-    "debut_year": 1984,
-    "first_release": "Power and Pain",
-    "country": "United States",
-    "active": true,
+    "name": "whiplash",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Thrash Metal",
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Whitechapel",
-    "genres": [
-      "Deathcore",
-      "Progressive Metal"
-    ],
-    "debut_year": 2007,
-    "first_release": "The Somatic Defilement",
-    "country": "United States",
-    "active": true,
+    "name": "whitechapel",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal",
-      "Metalcore",
-      "Progressive Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Windir",
+    "name": "windir",
     "genres": [
-      "Melodic Black Metal",
-      "Folk Metal",
-      "Viking Metal"
+      "Melodic Black Metal"
     ],
-    "debut_year": 1994,
+    "debut_year": 1997,
     "first_release": "Sóknardalr",
     "country": "Norway",
     "active": false,
     "aliases": [],
     "parent_genres": [
-      "Black Metal",
-      "Folk Metal"
+      "Black Metal"
     ],
-    "status": "Inactive"
+    "status": "Disbanded"
   },
   {
-    "name": "Witchfinder General",
-    "genres": [
-      "Traditional Doom Metal",
-      "Heavy Metal"
-    ],
-    "debut_year": 1979,
-    "first_release": "Death Penalty",
-    "country": "United Kingdom",
-    "active": false,
+    "name": "witchfinder general",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal",
-      "Heavy Metal"
-    ],
-    "status": "Inactive"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Within Temptation",
-    "genres": [
-      "Symphonic Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "Enter",
-    "country": "Netherlands",
-    "active": true,
+    "name": "withershins",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Heavy Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Wolves in the Throne Room",
+    "name": "within temptation",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "wolves in the throne room",
     "genres": [
       "Atmospheric Black Metal"
     ],
-    "debut_year": 2002,
-    "first_release": "Wolves in the Throne Room (Demo)",
+    "debut_year": 2006,
+    "first_release": "Diadem of 12 Stars",
     "country": "United States",
     "active": true,
     "aliases": [],
@@ -6918,136 +5437,102 @@
     "status": "Active"
   },
   {
-    "name": "Wormed",
-    "genres": [
-      "Technical Death Metal",
-      "Brutal Death Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "Floating Cadaver in the Monochrome (Demo)",
-    "country": "Spain",
-    "active": true,
+    "name": "wormed",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Death Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Wormrot",
-    "genres": [
-      "Grindcore"
-    ],
-    "debut_year": 2007,
-    "first_release": "2007 (Demo)",
-    "country": "Singapore",
-    "active": true,
+    "name": "wormrot",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Grindcore"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Worship",
-    "genres": [
-      "Funeral Doom Metal"
-    ],
-    "debut_year": 1998,
-    "first_release": "Last Tape Before Doomsday (Demo)",
-    "country": "Germany",
-    "active": true,
+    "name": "worship",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Xasthur",
-    "genres": [
-      "Depressive Suicidal Black Metal",
-      "Atmospheric Black Metal",
-      "Neofolk"
-    ],
-    "debut_year": 1995,
-    "first_release": "Orosius / Xasthur",
-    "country": "United States",
-    "active": true,
-    "aliases": [
-      "Nocturnal Poisoning"
-    ],
-    "parent_genres": [
-      "Black Metal",
-      "Dark Folk"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "Yellow Eyes",
-    "genres": [
-      "Atmospheric Black Metal"
-    ],
-    "debut_year": 2010,
-    "first_release": "Silence Threads the Evening's Cloth",
-    "country": "United States",
-    "active": true,
+    "name": "xasthur",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Yngwie Malmsteen",
-    "genres": [
-      "Neoclassical Metal"
-    ],
-    "debut_year": 1978,
-    "first_release": "Rising Force",
-    "country": "Sweden",
-    "active": true,
-    "aliases": [
-      "Yngwie J. Malmsteen",
-      "Yngwie Malmsteen's Rising Force"
-    ],
-    "parent_genres": [
-      "Power Metal"
-    ],
-    "status": "Active"
-  },
-  {
-    "name": "YOB",
-    "genres": [
-      "Doom Metal",
-      "Stoner Metal"
-    ],
-    "debut_year": 1996,
-    "first_release": "YOB (Demo)",
-    "country": "United States",
-    "active": true,
+    "name": "yellow eyes",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Doom Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
   },
   {
-    "name": "Zeal & Ardor",
-    "genres": [
-      "Avant-Garde Metal",
-      "Post-Black Metal",
-      "Blues"
-    ],
-    "debut_year": 2014,
-    "first_release": "Zeal and Ardor (Demo)",
-    "country": "Switzerland",
-    "active": true,
+    "name": "yngwie malmsteen",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
     "aliases": [],
-    "parent_genres": [
-      "Alternative Metal",
-      "Black Metal"
-    ],
-    "status": "Active"
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "yob",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "young gods",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
+  },
+  {
+    "name": "zeal and ardor",
+    "genres": [],
+    "debut_year": null,
+    "first_release": "",
+    "country": "",
+    "active": null,
+    "aliases": [],
+    "parent_genres": [],
+    "status": ""
   }
 ]

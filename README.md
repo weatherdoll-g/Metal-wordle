@@ -32,3 +32,7 @@ A complete entry uses this shape:
 
 ## Deploy on GitHub Pages
 Upload all five files to the root of the existing repository, replacing the previous versions, then commit to the `main` branch. Keep the existing Pages configuration and repository name.
+
+## Country-border clues
+
+The yellow country clue now uses a global land-border adjacency table covering 226 countries and territories (326 unique border pairs). Matching is symmetric, so a guess is yellow whenever its country shares a land border with the answer country. Common alternate names and spellings are normalized, including Czechia/Czech Republic and USA/United States. The table is based on country-border records, with supplemental updates and overseas-territory borders (including France–Brazil via French Guiana, France–Suriname, and the Canada–Denmark border on Hans Island). The source project documents its neighbor data as compiled from Wikipedia's lists of countries and territories by land borders: https://github.com/DataOmbudsman/country-graph.
